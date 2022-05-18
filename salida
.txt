@@ -1,0 +1,2263 @@
+[N0, Pr1, nP0] - Disputa
+[N0, Pr1, nP2] - END
+[N0, Pr1, nP1] - END
+[N0, Pr1, nP0] - END
+[N0, Pr1, nP3] - END
+[N0, Pr1, nP4] - END
+[N0, Pr1, nP7] - END
+[N0, Pr1, nP6] - END
+[N0, Pr1, nP9] - END
+[N0, Pr1, nP8] - END
+[N0, Pr1, nP11] - END
+[N0, Pr1, nP12] - END
+[N0, Pr1, nP10] - END
+[N0, Pr1, nP14] - END
+[N0, Pr1, nP13] - END
+[N0, Pr1, nP15] - END
+[N0, Pr1, nP17] - END
+[N0, Pr1, nP16] - END
+[N0, Pr1, nP19] - END
+[N0, Pr1, nP18] - END
+[N0, Pr1, nP5] - END
+[N0, Pr2, nP0] - END
+[N0, Pr2, nP1] - END
+[N0, Pr2, nP4] - END
+[N0, Pr2, nP3] - END
+[N0, Pr2, nP2] - END
+[N0, Pr2, nP6] - END
+[N0, Pr2, nP5] - END
+[N0, Pr2, nP7] - END
+[N0, Pr2, nP8] - Disputa
+[N0, Pr2, nP8] - END
+[N0, Pr2, nP10] - END
+[N0, Pr2, nP9] - END
+[N0, Pr2, nP11] - END
+[N0, Pr2, nP14] - Disputa
+[N0, Pr2, nP18] - END
+[N0, Pr2, nP14] - END
+[N0, Pr2, nP16] - END
+[N0, Pr2, nP15] - END
+[N0, Pr2, nP13] - END
+[N0, Pr2, nP17] - END
+[N0, Pr2, nP19] - END
+[N0, Pr2, nP23] - END
+[N0, Pr2, nP20] - END
+[N0, Pr2, nP24] - END
+[N0, Pr2, nP21] - END
+[N0, Pr2, nP27] - END
+[N0, Pr2, nP26] - END
+[N0, Pr2, nP12] - END
+[N0, Pr2, nP28] - END
+[N0, Pr2, nP22] - END
+[N0, Pr2, nP29] - END
+[N0, Pr3, nP0] - END
+[N0, Pr3, nP1] - END
+[N0, Pr3, nP2] - END
+[N0, Pr3, nP3] - END
+[N0, Pr3, nP4] - END
+[N0, Pr3, nP8] - END
+[N0, Pr3, nP5] - END
+[N0, Pr3, nP6] - END
+[N0, Pr3, nP7] - END
+[N0, Pr3, nP9] - END
+[N0, Pr4, nP0] - END
+[N0, Pr4, nP2] - END
+[N0, Pr4, nP1] - Disputa
+[N0, Pr4, nP3] - END
+[N1, Pr1, nP1] - Disputa
+[N1, Pr1, nP1] - END
+[N1, Pr1, nP2] - END
+[N1, Pr1, nP0] - END
+[N1, Pr1, nP4] - END
+[N1, Pr1, nP5] - END
+[N1, Pr1, nP6] - END
+[N1, Pr1, nP9] - END
+[N1, Pr1, nP10] - END
+[N1, Pr1, nP3] - END
+[N1, Pr1, nP7] - END
+[N1, Pr1, nP11] - END
+[N1, Pr1, nP8] - END
+[N1, Pr1, nP12] - END
+[N1, Pr1, nP14] - END
+[N1, Pr1, nP13] - Libera (sem = 0x7fc619061170)
+[N1, Pr1, nP13] - END
+[N1, Pr1, nP17] - Disputa
+[N0, Pr4, nP6] - END
+[N0, Pr2, nP25] - Disputa
+[N0, Pr4, nP1] - END
+[N1, Pr1, nP17] - END
+[N1, Pr1, nP19] - END
+[N1, Pr1, nP18] - END
+[N1, Pr1, nP21] - END
+[N1, Pr1, nP24] - END
+[N1, Pr1, nP22] - END
+[N1, Pr1, nP16] - END
+[N1, Pr1, nP27] - END
+[N1, Pr1, nP29] - END
+[N1, Pr1, nP20] - END
+[N2, Pr1, nP2] - Disputa
+[N1, Pr4, nP0] - max (sem = 0x7fd8a6afd170)
+[N1, Pr4, nP0] - saleMax t = 19824957294
+[N1, Consulta] - Bloqueo
+[N1, Pr4, nP1] - max (sem = 0x7f6fc79b9170)
+[N1, Pr1, nP28] - max (sem = 0x7fa267c32170)
+[N1, Pr2, nP22] - max (sem = 0x7ff216192170)
+[N1, Pr3, nP2] - max (sem = 0x7fdced01f170)
+[N1, Pr2, nP12] - max (sem = 0x7f7227fc4170)
+[N1, Pr1, nP25] - END
+[N2, Pr1, nP1] - END
+[N2, Pr1, nP18] - END
+[N1, Pr4, nP1] - saleMax t = 19824958703
+[N1, Pr1, nP26] - Libera (sem = 0x7f018f350170)
+[N1, Pr1, nP26] - END
+[N1, Pr4, nP1] - Libera (sem = 0x7f6fc79b9170)
+[N1, Pr1, nP28] - saleMax t = 19824958770
+[N1, Pr1, nP28] - Libera (sem = 0x7fa267c32170)
+[N1, Pr1, nP28] - Disputa
+[N2, Pr1, nP24] - END
+[N2, Pr1, nP11] - END
+[N2, Pr1, nP12] - END
+[N2, Pr1, nP3] - END
+[N2, Pr1, nP13] - END
+[N2, Pr1, nP19] - END
+[N2, Pr1, nP6] - END
+[N2, Pr1, nP14] - END
+[N2, Pr1, nP17] - END
+[N2, Pr2, nP7] - max (sem = 0x7f9ed459d170)
+[N2, Pr1, nP2] - END
+[N2, Pr2, nP32] - max (sem = 0x7f1df6edf170)
+[N2, Pr2, nP28] - max (sem = 0x7f53824c9170)
+[N2, Pr1, nP9] - END
+[N2, Pr2, nP36] - max (sem = 0x7f1c00dbb170)
+[N2, Pr2, nP24] - max (sem = 0x7ff96835c170)
+[N2, Pr2, nP29] - max (sem = 0x7fa7f2035170)
+[N2, Pr2, nP23] - max (sem = 0x7fadddd32170)
+[N2, Pr1, nP5] - END
+[N2, Pr2, nP40] - max (sem = 0x7f2e4bb7e170)
+[N2, Pr2, nP41] - max (sem = 0x7fd58f0bb170)
+[N2, Pr1, nP23] - END
+[N2, Pr2, nP43] - max (sem = 0x7f351b866170)
+[N2, Pr2, nP39] - max (sem = 0x7f9008354170)
+[N1, Pr2, nP22] - saleMax t = 19824961046
+[N2, Pr2, nP34] - max (sem = 0x7fc1dbee7170)
+[N1, Pr2, nP22] - Libera (sem = 0x7ff216192170)
+[N2, Pr2, nP33] - max (sem = 0x7f9a21adf170)
+[N2, Pr1, nP22] - END
+[N2, Pr1, nP20] - END
+[N2, Pr2, nP42] - max (sem = 0x7f05ecc73170)
+[N2, Pr1, nP16] - max (sem = 0x7f312253e170)
+[N1, Pr3, nP2] - saleMax t = 19824961434
+[N1, Pr3, nP2] - Libera (sem = 0x7fdced01f170)
+[N1, Pr2, nP12] - saleMax t = 19824961454
+[N2, Pr2, nP44] - max (sem = 0x7f6d37369170)
+[N2, Pr2, nP27] - max (sem = 0x7f400f3ae170)
+[N2, Pr1, nP15] - max (sem = 0x7fc6b1be1170)
+[N2, Pr2, nP37] - max (sem = 0x7f935125e170)
+[N2, Pr2, nP50] - max (sem = 0x7f453c344170)
+[N2, Pr1, nP21] - END
+[N2, Pr2, nP49] - max (sem = 0x7f7c551de170)
+[N2, Pr2, nP30] - max (sem = 0x7f3694193170)
+[N2, Pr1, nP10] - max (sem = 0x7f3ebe30f170)
+[N2, Pr2, nP7] - saleMax t = 19824961763
+[N2, Pr1, nP0] - Libera (sem = 0x7f990be08170)
+[N2, Pr1, nP0] - END
+[N2, Pr2, nP7] - Libera (sem = 0x7f9ed459d170)
+[N2, Pr2, nP32] - saleMax t = 19824961783
+[N2, Pr2, nP32] - Libera (sem = 0x7f1df6edf170)
+[N2, Pr2, nP28] - saleMax t = 19824961797
+[N2, Pr2, nP28] - Libera (sem = 0x7f53824c9170)
+[N1, Pr1, nP28] - END
+[N2, Pr2, nP36] - saleMax t = 19824961808
+[N2, Pr2, nP36] - Libera (sem = 0x7f1c00dbb170)
+[N2, Pr2, nP24] - saleMax t = 19824961818
+[N2, Pr2, nP24] - Libera (sem = 0x7ff96835c170)
+[N2, Pr2, nP29] - saleMax t = 19824961829
+[N2, Pr1, nP8] - Disputa
+[N2, Pr2, nP23] - saleMax t = 19824961847
+[N2, Pr2, nP29] - Libera (sem = 0x7fa7f2035170)
+[N2, Pr2, nP23] - Libera (sem = 0x7fadddd32170)
+[N2, Pr2, nP40] - saleMax t = 19824961868
+[N2, Pr2, nP40] - Libera (sem = 0x7f2e4bb7e170)
+[N2, Pr2, nP41] - saleMax t = 19824961877
+[N2, Pr2, nP41] - Libera (sem = 0x7fd58f0bb170)
+[N2, Pr2, nP43] - saleMax t = 19824961898
+[N2, Pr2, nP43] - Libera (sem = 0x7f351b866170)
+[N2, Pr2, nP39] - saleMax t = 19824961920
+[N2, Pr2, nP39] - Libera (sem = 0x7f9008354170)
+[N2, Pr2, nP34] - saleMax t = 19824961935
+[N2, Pr2, nP33] - saleMax t = 19824961942
+[N2, Pr2, nP34] - Libera (sem = 0x7fc1dbee7170)
+[N2, Pr2, nP33] - Libera (sem = 0x7f9a21adf170)
+[N2, Pr2, nP42] - saleMax t = 19824961958
+[N2, Pr2, nP42] - Libera (sem = 0x7f05ecc73170)
+[N2, Pr1, nP16] - saleMax t = 19824961971
+[N2, Pr1, nP16] - Libera (sem = 0x7f312253e170)
+[N2, Pr2, nP44] - saleMax t = 19824961980
+[N2, Pr2, nP44] - Libera (sem = 0x7f6d37369170)
+[N2, Pr2, nP27] - saleMax t = 19824961999
+[N2, Pr3, nP2] - max (sem = 0x7f3050963170)
+[N2, Pr2, nP51] - max (sem = 0x7f297725c170)
+[N2, Pr3, nP3] - max (sem = 0x7fbcccdbe170)
+[N2, Pr2, nP16] - max (sem = 0x7fa8d2dd3170)
+[N2, Pr2, nP17] - max (sem = 0x7f8863483170)
+[N1, Pr2, nP0] - END
+[N2, Pr2, nP53] - max (sem = 0x7f93166eb170)
+[N2, Pr4, nP3] - max (sem = 0x7f14d31ad170)
+[N2, Pr4, nP2] - max (sem = 0x7f0cef109170)
+[N2, Pr2, nP5] - max (sem = 0x7fe0492e1170)
+[N2, Pr4, nP7] - max (sem = 0x7fc596c93170)
+[N2, Pr4, nP5] - max (sem = 0x7f2612153170)
+[N2, Pr2, nP46] - max (sem = 0x7f930d680170)
+[N2, Pr4, nP4] - max (sem = 0x7ff9c1b30170)
+[N2, Pr4, nP6] - max (sem = 0x7fa973e82170)
+[N2, Pr4, nP9] - max (sem = 0x7f327a7bb170)
+[N2, Pr2, nP52] - max (sem = 0x7f6e6b044170)
+[N2, Pr2, nP54] - max (sem = 0x7fad8fd67170)
+[N2, Pr1, nP4] - max (sem = 0x7f19700c8170)
+[N2, Pr4, nP8] - max (sem = 0x7fbcfad57170)
+[N2, Pr1, nP8] - END
+[N2, Pr1, nP16] - END
+[N2, Pr2, nP3] - END
+[N2, Pr2, nP0] - END
+[N2, Pr2, nP8] - END
+[N2, Pr1, nP7] - max (sem = 0x7f8060d40170)
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP2] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP6] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP11] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP15] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP1] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP14] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP9] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP12] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP13] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP4] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP20] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP18] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP10] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP26] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP25] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP21] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP22] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP19] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP7] - END
+[N2, Pr2, nP32] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP28] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP31] - max (sem = 0x7fd762844170)
+[N2, Pr2, nP36] - END
+[N2, Pr2, nP24] - END
+[N2, Pr2, nP23] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N1, Pr1, nP23] - Disputa
+[N2, Pr2, nP29] - Libera (sem = 0x7fa7f2035170)
+[N2, Pr1, nP15] - saleMax t = 19824969161
+[N2, Pr2, nP29] - END
+[N2, Pr1, nP15] - Libera (sem = 0x7fc6b1be1170)
+[N2, Pr1, nP15] - Disputa
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP37] - saleMax t = 19824969182
+[N2, Pr2, nP37] - Libera (sem = 0x7f935125e170)
+[N2, Pr2, nP50] - saleMax t = 19824969204
+[N2, Pr2, nP50] - Libera (sem = 0x7f453c344170)
+[N1, Pr1, nP23] - END
+[N2, Pr2, nP49] - saleMax t = 19824969220
+[N2, Pr2, nP49] - Libera (sem = 0x7f7c551de170)
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N2, Pr1, nP15] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP47] - END
+[N2, Pr2, nP40] - END
+[N2, Pr2, nP41] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP43] - END
+[N2, Pr2, nP39] - END
+[N2, Pr2, nP34] - END
+[N2, Pr2, nP33] - END
+[N2, Pr2, nP38] - END
+[N2, Pr2, nP42] - END
+[N2, Pr2, nP44] - END
+[N2, Pr2, nP27] - END
+[N2, Pr2, nP37] - END
+[N2, Pr2, nP50] - END
+[N2, Pr2, nP49] - END
+[N2, Pr2, nP35] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP48] - END
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP45] - Libera (sem = 0x7f0cac6ff170)
+[N2, Pr1, nP10] - saleMax t = 19824970470
+[N2, Pr2, nP45] - END
+[N2, Pr1, nP10] - Libera (sem = 0x7f3ebe30f170)
+[N2, Pr1, nP10] - Disputa
+[N2, Pr3, nP2] - saleMax t = 19824970481
+[N2, Pr3, nP2] - Libera (sem = 0x7f3050963170)
+[N2, Pr2, nP51] - saleMax t = 19824970496
+[N2, Pr2, nP51] - Libera (sem = 0x7f297725c170)
+[N2, Pr3, nP3] - saleMax t = 19824970510
+[N2, Pr3, nP3] - Libera (sem = 0x7fbcccdbe170)
+[N2, Pr2, nP16] - saleMax t = 19824970521
+[N2, Pr2, nP16] - Libera (sem = 0x7fa8d2dd3170)
+[N1, Pr2, nP1] - END
+[N2, Pr2, nP17] - saleMax t = 19824970572
+[N2, Pr2, nP17] - Libera (sem = 0x7f8863483170)
+[N2, Pr2, nP53] - saleMax t = 19824970592
+[N2, Pr2, nP53] - Libera (sem = 0x7f93166eb170)
+[N2, Pr4, nP3] - saleMax t = 19824970606
+[N2, Pr4, nP3] - Libera (sem = 0x7f14d31ad170)
+[N2, Pr4, nP2] - saleMax t = 19824970621
+[N2, Pr1, nP10] - END
+[N2, Pr4, nP2] - Libera (sem = 0x7f0cef109170)
+[N2, Pr2, nP5] - saleMax t = 19824970636
+[N2, Pr2, nP5] - Libera (sem = 0x7fe0492e1170)
+[N2, Pr4, nP7] - saleMax t = 19824970653
+[N2, Pr4, nP7] - Libera (sem = 0x7fc596c93170)
+[N2, Pr4, nP5] - saleMax t = 19824970666
+[N2, Pr4, nP5] - Libera (sem = 0x7f2612153170)
+[N2, Pr2, nP46] - saleMax t = 19824970679
+[N2, Pr2, nP51] - END
+[N2, Pr2, nP46] - Libera (sem = 0x7f930d680170)
+[N2, Pr4, nP4] - saleMax t = 19824970702
+[N2, Pr4, nP4] - Libera (sem = 0x7ff9c1b30170)
+[N2, Pr4, nP6] - saleMax t = 19824970720
+[N2, Pr4, nP6] - Libera (sem = 0x7fa973e82170)
+[N2, Pr4, nP9] - saleMax t = 19824970747
+[N2, Pr2, nP16] - END
+[N2, Pr4, nP9] - Libera (sem = 0x7f327a7bb170)
+[N2, Pr2, nP52] - saleMax t = 19824970767
+[N2, Pr2, nP52] - Libera (sem = 0x7f6e6b044170)
+[N2, Pr2, nP54] - saleMax t = 19824970780
+[N2, Pr2, nP54] - Libera (sem = 0x7fad8fd67170)
+[N2, Pr1, nP4] - saleMax t = 19824970793
+[N2, Pr1, nP4] - Libera (sem = 0x7f19700c8170)
+[N2, Pr4, nP8] - saleMax t = 19824970808
+[N2, Pr4, nP8] - Libera (sem = 0x7fbcfad57170)
+[N2, Pr1, nP7] - saleMax t = 19824970826
+[N2, Pr2, nP17] - END
+[N2, Pr1, nP7] - Libera (sem = 0x7f8060d40170)
+[N2, Pr2, nP31] - saleMax t = 19824970847
+[N2, Pr2, nP31] - Libera (sem = 0x7fd762844170)
+[N2, Pr1, nP4] - END
+[N2, Pr1, nP7] - END
+[N2, Pr2, nP53] - END
+[N2, Pr2, nP5] - END
+[N2, Pr2, nP46] - END
+[N2, Pr2, nP52] - END
+[N2, Pr2, nP54] - END
+[N2, Pr2, nP31] - Libera (sem = 0x7fd762844170)
+[N2, Pr2, nP31] - END
+[N1, Pr2, nP2] - END
+[N1, Pr2, nP3] - END
+[N1, Pr2, nP4] - END
+[N1, Pr2, nP6] - END
+[N1, Pr2, nP7] - END
+[N1, Pr2, nP8] - END
+[N1, Pr2, nP9] - END
+[N1, Pr2, nP15] - END
+[N1, Pr2, nP17] - END
+[N1, Pr1, nP15] - END
+[N1, Pr2, nP18] - END
+[N1, Pr2, nP13] - END
+[N1, Pr2, nP20] - END
+[N1, Pr2, nP21] - END
+[N1, Pr2, nP23] - END
+[N1, Pr2, nP24] - END
+[N1, Pr2, nP16] - END
+[N1, Pr2, nP19] - END
+[N1, Pr2, nP5] - END
+[N1, Pr2, nP14] - END
+[N1, Pr2, nP22] - END
+[N2, Pr2, nP30] - saleMax t = 19824972996
+[N2, Pr2, nP30] - Disputa
+[N1, Pr2, nP11] - END
+[N1, Pr2, nP12] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N0, Pr2, nP25] - END
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N4, Pr1, nP0] - Disputa
+[N3, Consulta] - Bloqueo
+[N2, Pr2, nP30] - END
+[N3, Consulta] - Bloqueo
+[N4, Pr1, nP24] - END
+[N4, Pr1, nP1] - END
+[N4, Pr1, nP2] - END
+[N4, Pr1, nP34] - END
+[N4, Pr1, nP7] - END
+[N4, Pr1, nP4] - END
+[N4, Pr1, nP31] - END
+[N4, Pr1, nP10] - END
+[N4, Pr1, nP36] - END
+[N4, Pr1, nP9] - END
+[N4, Pr1, nP13] - END
+[N4, Pr1, nP15] - END
+[N1, Pr2, nP10] - END
+[N4, Pr1, nP16] - END
+[N4, Pr1, nP14] - END
+[N4, Pr1, nP8] - END
+[N4, Pr1, nP19] - END
+[N4, Pr1, nP23] - END
+[N4, Pr1, nP20] - END
+[N4, Pr1, nP48] - max (sem = 0x7f93e7e94170)
+[N4, Pr1, nP53] - max (sem = 0x7ffb95a29170)
+[N4, Pr1, nP52] - max (sem = 0x7fae44453170)
+[N4, Pr1, nP17] - END
+[N4, Pr1, nP47] - max (sem = 0x7f4b4926a170)
+[N4, Pr1, nP22] - END
+[N4, Pr1, nP25] - END
+[N4, Pr1, nP27] - END
+[N4, Pr1, nP54] - max (sem = 0x7f3fbafd5170)
+[N4, Pr1, nP30] - END
+[N4, Pr1, nP55] - max (sem = 0x7f7968d4c170)
+[N4, Pr1, nP26] - END
+[N4, Pr1, nP33] - END
+[N4, Pr1, nP6] - END
+[N4, Pr1, nP56] - max (sem = 0x7f508eab0170)
+[N4, Pr1, nP32] - END
+[N4, Pr1, nP57] - max (sem = 0x7f1f90f6f170)
+[N4, Pr1, nP3] - END
+[N4, Pr1, nP35] - END
+[N4, Pr1, nP58] - max (sem = 0x7f5f8fcfd170)
+[N4, Pr1, nP39] - END
+[N4, Pr1, nP59] - max (sem = 0x7fbda51bc170)
+[N4, Pr1, nP42] - END
+[N4, Pr2, nP0] - max (sem = 0x7f4d9ca4f170)
+[N4, Pr1, nP12] - END
+[N4, Pr2, nP1] - max (sem = 0x7fd763741170)
+[N4, Pr1, nP43] - END
+[N4, Pr3, nP0] - max (sem = 0x7f8af13f9170)
+[N4, Pr1, nP40] - END
+[N4, Pr2, nP2] - max (sem = 0x7fb61d7f6170)
+[N4, Pr3, nP1] - max (sem = 0x7fec41d94170)
+[N4, Pr3, nP2] - max (sem = 0x7f22841bd170)
+[N4, Pr3, nP3] - max (sem = 0x7f6d2fc34170)
+[N4, Pr1, nP44] - END
+[N4, Pr3, nP5] - max (sem = 0x7f89cbb51170)
+[N4, Pr3, nP4] - max (sem = 0x7f3d6bc94170)
+[N4, Pr1, nP0] - END
+[N4, Pr3, nP6] - max (sem = 0x7f3891473170)
+[N4, Pr3, nP7] - max (sem = 0x7efd3e67f170)
+[N4, Pr1, nP37] - END
+[N4, Pr1, nP46] - max (sem = 0x7f4ae5e04170)
+[N4, Pr3, nP8] - max (sem = 0x7fade03de170)
+[N4, Pr1, nP45] - END
+[N4, Pr3, nP9] - max (sem = 0x7f221add0170)
+[N4, Pr4, nP0] - max (sem = 0x7f333cd14170)
+[N4, Pr1, nP50] - END
+[N4, Pr1, nP51] - Libera (sem = 0x7f195a6a1170)
+[N4, Pr1, nP51] - END
+[N4, Pr1, nP48] - saleMax t = 19824979840
+[N4, Pr4, nP1] - Disputa
+[N4, Pr1, nP48] - Libera (sem = 0x7f93e7e94170)
+[N4, Pr1, nP48] - Disputa
+[N4, Pr1, nP53] - saleMax t = 19824979860
+[N4, Pr1, nP53] - Libera (sem = 0x7ffb95a29170)
+[N1, Pr3, nP3] - END
+[N4, Pr1, nP52] - saleMax t = 19824979922
+[N4, Pr1, nP52] - Libera (sem = 0x7fae44453170)
+[N4, Pr1, nP47] - saleMax t = 19824979952
+[N4, Pr1, nP47] - Libera (sem = 0x7f4b4926a170)
+[N4, Pr1, nP54] - saleMax t = 19824979966
+[N4, Pr1, nP54] - Libera (sem = 0x7f3fbafd5170)
+[N4, Pr1, nP55] - saleMax t = 19824979990
+[N4, Pr1, nP55] - Libera (sem = 0x7f7968d4c170)
+[N4, Pr1, nP56] - saleMax t = 19824980002
+[N4, Pr1, nP57] - saleMax t = 19824980019
+[N4, Pr1, nP56] - Libera (sem = 0x7f508eab0170)
+[N4, Pr1, nP57] - Libera (sem = 0x7f1f90f6f170)
+[N4, Pr1, nP58] - saleMax t = 19824980035
+[N4, Pr1, nP58] - Libera (sem = 0x7f5f8fcfd170)
+[N4, Pr2, nP0] - saleMax t = 19824980048
+[N4, Pr2, nP0] - Libera (sem = 0x7f4d9ca4f170)
+[N3, Consulta] - Bloqueo
+[N4, Pr1, nP59] - saleMax t = 19824980056
+[N4, Pr1, nP53] - END
+[N4, Pr1, nP59] - Libera (sem = 0x7fbda51bc170)
+[N4, Pr2, nP1] - saleMax t = 19824980091
+[N4, Pr2, nP1] - Libera (sem = 0x7fd763741170)
+[N4, Pr3, nP0] - saleMax t = 19824980107
+[N4, Pr3, nP0] - Libera (sem = 0x7f8af13f9170)
+[N4, Pr2, nP2] - saleMax t = 19824980118
+[N4, Pr2, nP2] - Libera (sem = 0x7fb61d7f6170)
+[N4, Pr3, nP1] - saleMax t = 19824980133
+[N4, Pr3, nP2] - saleMax t = 19824980145
+[N4, Pr3, nP1] - Libera (sem = 0x7fec41d94170)
+[N4, Pr1, nP59] - END
+[N4, Pr3, nP2] - Libera (sem = 0x7f22841bd170)
+[N4, Pr3, nP3] - saleMax t = 19824980186
+[N4, Pr3, nP3] - Libera (sem = 0x7f6d2fc34170)
+[N4, Pr3, nP5] - saleMax t = 19824980198
+[N4, Pr3, nP5] - Libera (sem = 0x7f89cbb51170)
+[N4, Pr3, nP4] - saleMax t = 19824980207
+[N4, Pr3, nP4] - Libera (sem = 0x7f3d6bc94170)
+[N4, Pr3, nP6] - saleMax t = 19824980221
+[N4, Pr3, nP6] - Libera (sem = 0x7f3891473170)
+[N4, Pr3, nP7] - saleMax t = 19824980234
+[N4, Pr1, nP52] - END
+[N4, Pr3, nP7] - Libera (sem = 0x7efd3e67f170)
+[N4, Pr1, nP47] - END
+[N4, Pr1, nP54] - END
+[N4, Pr1, nP46] - saleMax t = 19824980626
+[N4, Pr1, nP46] - Libera (sem = 0x7f4ae5e04170)
+[N4, Pr3, nP8] - saleMax t = 19824980652
+[N4, Pr1, nP55] - END
+[N4, Pr3, nP8] - Libera (sem = 0x7fade03de170)
+[N4, Pr3, nP9] - saleMax t = 19824980668
+[N4, Pr3, nP9] - Libera (sem = 0x7f221add0170)
+[N4, Pr4, nP0] - saleMax t = 19824980688
+[N4, Pr4, nP18] - max (sem = 0x7f6c5bce7170)
+[N4, Pr4, nP19] - max (sem = 0x7f1b3cab8170)
+[N4, Pr1, nP56] - END
+[N4, Pr4, nP16] - max (sem = 0x7fc42d684170)
+[N4, Consulta] - Bloqueo
+[N4, Consulta] - Bloqueo
+[N4, Pr1, nP57] - END
+[N4, Consulta] - Bloqueo
+[N4, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N5, Pr1, nP1] - Disputa
+[N4, Pr4, nP17] - max (sem = 0x7f1307722170)
+[N4, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N4, Pr1, nP28] - max (sem = 0x7fd29b4f4170)
+[N4, Pr1, nP49] - max (sem = 0x7f6088196170)
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N4, Pr1, nP38] - max (sem = 0x7fb6651fe170)
+[N4, Pr1, nP29] - max (sem = 0x7f9ddb068170)
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N4, Pr1, nP5] - max (sem = 0x7f3c93b16170)
+[N4, Pr1, nP18] - max (sem = 0x7f6fd9c0e170)
+[N4, Pr1, nP11] - max (sem = 0x7ff62d8b5170)
+[N3, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N3, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N4, Pr1, nP41] - max (sem = 0x7f342a6c5170)
+[N5, Consulta] - Bloqueo
+[N4, Pr1, nP21] - max (sem = 0x7f8bd38a0170)
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N5, Consulta] - Bloqueo
+[N6, Pr1, nP1] - Disputa
+[N4, Pr1, nP58] - END
+[N6, Pr2, nP16] - max (sem = 0x7fa026f7d170)
+[N6, Pr2, nP18] - max (sem = 0x7fb7d2a72170)
+[N6, Pr2, nP14] - max (sem = 0x7eff230b1170)
+[N6, Pr2, nP20] - max (sem = 0x7f26fec74170)
+[N6, Pr2, nP17] - max (sem = 0x7f6bc7aab170)
+[N6, Pr2, nP22] - max (sem = 0x7fed62336170)
+[N6, Pr2, nP19] - max (sem = 0x7fb818cf5170)
+[N6, Pr2, nP25] - max (sem = 0x7ffa6fa3a170)
+[N6, Pr2, nP24] - max (sem = 0x7f8b456de170)
+[N6, Pr2, nP26] - max (sem = 0x7fa7cf5c0170)
+[N6, Pr2, nP21] - max (sem = 0x7fa40bb09170)
+[N6, Pr2, nP23] - max (sem = 0x7fdcb6d40170)
+[N6, Pr2, nP29] - max (sem = 0x7f312785c170)
+[N6, Pr2, nP30] - max (sem = 0x7f0383749170)
+[N6, Pr2, nP32] - max (sem = 0x7f17119f6170)
+[N6, Pr2, nP27] - max (sem = 0x7f77a048d170)
+[N6, Pr2, nP33] - max (sem = 0x7f397a698170)
+[N6, Pr2, nP28] - max (sem = 0x7f4d5abd7170)
+[N6, Pr2, nP36] - max (sem = 0x7f2000edc170)
+[N4, Pr1, nP48] - END
+[N6, Pr2, nP39] - max (sem = 0x7fc9530eb170)
+[N6, Pr2, nP38] - max (sem = 0x7fcfc8b02170)
+[N4, Pr1, nP46] - Libera (sem = 0x7f4ae5e04170)
+[N4, Pr1, nP46] - END
+[N6, Pr2, nP35] - max (sem = 0x7f8b6d60d170)
+[N6, Pr2, nP42] - max (sem = 0x7fc98f6bd170)
+[N6, Pr2, nP31] - max (sem = 0x7feb2a66c170)
+[N4, Pr4, nP18] - saleMax t = 19824992142
+[N6, Pr2, nP43] - max (sem = 0x7fa052909170)
+[N4, Pr4, nP18] - Libera (sem = 0x7f6c5bce7170)
+[N4, Pr4, nP19] - saleMax t = 19824992161
+[N4, Pr4, nP19] - Libera (sem = 0x7f1b3cab8170)
+[N4, Pr4, nP16] - saleMax t = 19824992185
+[N4, Pr4, nP16] - Libera (sem = 0x7fc42d684170)
+[N4, Pr4, nP17] - saleMax t = 19824992202
+[N4, Pr4, nP17] - Libera (sem = 0x7f1307722170)
+[N6, Pr2, nP34] - max (sem = 0x7fb4c89ee170)
+[N4, Pr1, nP28] - saleMax t = 19824992229
+[N4, Pr1, nP28] - Libera (sem = 0x7fd29b4f4170)
+[N4, Pr1, nP28] - Disputa
+[N4, Pr1, nP49] - saleMax t = 19824992261
+[N4, Pr1, nP49] - Libera (sem = 0x7f6088196170)
+[N4, Pr1, nP38] - saleMax t = 19824992277
+[N4, Pr1, nP38] - Libera (sem = 0x7fb6651fe170)
+[N5, Pr1, nP2] - END
+[N4, Pr1, nP29] - saleMax t = 19824992307
+[N4, Pr1, nP29] - Libera (sem = 0x7f9ddb068170)
+[N4, Pr1, nP5] - saleMax t = 19824992343
+[N4, Pr1, nP5] - Libera (sem = 0x7f3c93b16170)
+[N5, Pr1, nP1] - END
+[N4, Pr1, nP18] - saleMax t = 19824992368
+[N4, Pr1, nP18] - Libera (sem = 0x7f6fd9c0e170)
+[N6, Pr2, nP46] - max (sem = 0x7f6a85f00170)
+[N4, Pr1, nP11] - saleMax t = 19824992388
+[N4, Pr1, nP11] - Libera (sem = 0x7ff62d8b5170)
+[N4, Pr1, nP41] - saleMax t = 19824992407
+[N6, Pr2, nP41] - max (sem = 0x7f3ce8608170)
+[N6, Pr2, nP49] - max (sem = 0x7fe7bbe23170)
+[N6, Pr2, nP47] - max (sem = 0x7f8f3e31a170)
+[N4, Pr1, nP28] - END
+[N6, Pr2, nP44] - max (sem = 0x7fcd0a714170)
+[N5, Pr1, nP3] - END
+[N6, Pr2, nP37] - max (sem = 0x7fa71c580170)
+[N5, Pr1, nP4] - END
+[N4, Pr1, nP49] - END
+[N5, Pr1, nP5] - END
+[N6, Pr2, nP48] - max (sem = 0x7f3a970ed170)
+[N4, Pr1, nP38] - END
+[N4, Pr1, nP29] - END
+[N6, Pr2, nP45] - max (sem = 0x7ff0b7605170)
+[N5, Pr1, nP7] - END
+[N6, Pr3, nP4] - max (sem = 0x7ff909ed6170)
+[N4, Pr1, nP5] - END
+[N6, Pr3, nP1] - max (sem = 0x7f683d123170)
+[N4, Pr1, nP18] - END
+[N5, Pr1, nP8] - END
+[N6, Pr3, nP0] - max (sem = 0x7ff0e844b170)
+[N6, Pr4, nP3] - max (sem = 0x7f9998338170)
+[N6, Pr2, nP50] - max (sem = 0x7f2ce0867170)
+[N6, Pr4, nP2] - max (sem = 0x7fb4d44b1170)
+[N4, Pr1, nP11] - END
+[N6, Pr4, nP6] - max (sem = 0x7f4a0dceb170)
+[N4, Pr1, nP41] - END
+[N5, Pr1, nP6] - END
+[N5, Pr1, nP9] - END
+[N6, Pr4, nP9] - max (sem = 0x7f8f9b8ea170)
+[N6, Pr4, nP5] - max (sem = 0x7f56cf61f170)
+[N6, Pr2, nP54] - max (sem = 0x7f37d2b9a170)
+[N5, Pr1, nP0] - END
+[N6, Pr3, nP3] - max (sem = 0x7ff581ec0170)
+[N4, Pr2, nP0] - END
+[N6, Pr2, nP53] - max (sem = 0x7f46d4a0a170)
+[N6, Pr4, nP0] - max (sem = 0x7f409eb85170)
+[N4, Pr2, nP1] - END
+[N4, Pr2, nP2] - END
+[N4, Pr3, nP0] - END
+[N7, Pr1, nP0] - Disputa
+[N4, Pr3, nP1] - END
+[N4, Pr3, nP2] - Libera (sem = 0x7f22841bd170)
+[N4, Pr3, nP2] - END
+[N6, Pr2, nP52] - max (sem = 0x7f9852449170)
+[N4, Pr1, nP21] - saleMax t = 19824994680
+[N4, Pr1, nP21] - Disputa
+[N6, Pr2, nP51] - max (sem = 0x7fe27d316170)
+[N5, Consulta] - Bloqueo
+[N6, Pr3, nP2] - max (sem = 0x7f6b28cf2170)
+[N6, Pr4, nP1] - max (sem = 0x7f27ceb62170)
+[N6, Pr4, nP7] - max (sem = 0x7fa2808c0170)
+[N6, Pr4, nP8] - max (sem = 0x7fbae35d6170)
+[N7, Pr1, nP45] - max (sem = 0x7f693a8b4170)
+[N7, Pr1, nP46] - max (sem = 0x7f3b7a305170)
+[N7, Pr1, nP41] - max (sem = 0x7f7d0bf70170)
+[N7, Pr1, nP43] - max (sem = 0x7fec33f1f170)
+[N7, Pr1, nP42] - max (sem = 0x7f28d563f170)
+[N7, Pr1, nP47] - max (sem = 0x7f3eb6ae2170)
+[N7, Pr1, nP37] - max (sem = 0x7f610e306170)
+[N7, Pr2, nP3] - max (sem = 0x7ff6ca40f170)
+[N7, Pr1, nP44] - max (sem = 0x7f3702eb8170)
+[N7, Pr1, nP48] - max (sem = 0x7f18f3ccc170)
+[N7, Pr2, nP2] - max (sem = 0x7fc739758170)
+[N7, Pr2, nP1] - max (sem = 0x7fa364fec170)
+[N7, Pr1, nP49] - max (sem = 0x7f55227aa170)
+[N7, Pr2, nP10] - max (sem = 0x7f15e56f4170)
+[N7, Pr2, nP5] - max (sem = 0x7f4281782170)
+[N7, Pr2, nP7] - max (sem = 0x7f7af5238170)
+[N7, Pr2, nP4] - max (sem = 0x7f33af44e170)
+[N7, Pr2, nP15] - max (sem = 0x7f5727693170)
+[N7, Pr2, nP0] - max (sem = 0x7f7cf25aa170)
+[N7, Pr2, nP17] - max (sem = 0x7f30dc0d6170)
+[N7, Pr2, nP13] - max (sem = 0x7f4c0c606170)
+[N7, Pr2, nP6] - max (sem = 0x7ffa27a8c170)
+[N7, Pr2, nP19] - max (sem = 0x7fd798bc3170)
+[N7, Pr2, nP20] - max (sem = 0x7ff50027f170)
+[N7, Pr2, nP14] - max (sem = 0x7f6f2e962170)
+[N7, Pr2, nP18] - max (sem = 0x7fc050e07170)
+[N7, Pr2, nP22] - max (sem = 0x7f80c027a170)
+[N7, Pr2, nP24] - max (sem = 0x7fa6de824170)
+[N7, Pr2, nP16] - max (sem = 0x7fb268218170)
+[N7, Pr2, nP23] - max (sem = 0x7fdb2063c170)
+[N7, Pr2, nP26] - max (sem = 0x7f8378092170)
+[N7, Pr2, nP28] - max (sem = 0x7f4a54536170)
+[N7, Pr2, nP29] - max (sem = 0x7ff67e1e6170)
+[N7, Pr2, nP21] - max (sem = 0x7f8efc3e1170)
+[N7, Pr2, nP8] - max (sem = 0x7f50ae2d6170)
+[N7, Pr2, nP9] - max (sem = 0x7fa6b17b9170)
+[N7, Pr2, nP12] - max (sem = 0x7fbf1de36170)
+[N7, Pr2, nP27] - max (sem = 0x7f532abf8170)
+[N7, Pr3, nP4] - max (sem = 0x7f16fbd74170)
+[N7, Pr2, nP11] - max (sem = 0x7f00bc09c170)
+[N7, Pr3, nP0] - max (sem = 0x7fcbb3d66170)
+[N7, Pr3, nP7] - max (sem = 0x7fce0b21f170)
+[N7, Pr3, nP1] - max (sem = 0x7f98ba946170)
+[N7, Pr2, nP25] - max (sem = 0x7f63a08f3170)
+[N7, Pr3, nP11] - max (sem = 0x7f30c24ad170)
+[N7, Pr3, nP8] - max (sem = 0x7fa129ce2170)
+[N7, Pr3, nP15] - max (sem = 0x7fec0abd3170)
+[N7, Pr3, nP3] - max (sem = 0x7f78b4218170)
+[N7, Pr3, nP2] - max (sem = 0x7faca32c7170)
+[N7, Pr3, nP18] - max (sem = 0x7f306e70e170)
+[N7, Pr3, nP13] - max (sem = 0x7f9da3c22170)
+[N7, Pr3, nP6] - max (sem = 0x7f0d19bca170)
+[N7, Pr3, nP12] - max (sem = 0x7f57467c9170)
+[N4, Pr1, nP21] - END
+[N7, Pr2, nP30] - max (sem = 0x7f359399b170)
+[N6, Pr1, nP2] - END
+[N7, Pr3, nP22] - max (sem = 0x7f2fb8de8170)
+[N7, Pr3, nP19] - max (sem = 0x7f8a07d2a170)
+[N7, Pr2, nP31] - max (sem = 0x7f023eef4170)
+[N7, Pr3, nP23] - max (sem = 0x7fa01011e170)
+[N7, Pr3, nP20] - max (sem = 0x7fd3331ff170)
+[N7, Pr3, nP21] - max (sem = 0x7f0fc80b0170)
+[N7, Pr3, nP25] - max (sem = 0x7f00a1986170)
+[N7, Pr3, nP10] - max (sem = 0x7f44b6f0a170)
+[N7, Pr3, nP17] - max (sem = 0x7f30ae482170)
+[N7, Pr3, nP29] - max (sem = 0x7f24bf3c7170)
+[N6, Pr2, nP40] - max (sem = 0x7f5af3960170)
+[N7, Pr3, nP30] - max (sem = 0x7fd672558170)
+[N6, Pr4, nP4] - max (sem = 0x7f92bb73c170)
+[N7, Pr3, nP31] - max (sem = 0x7fa62b7e3170)
+[N7, Pr3, nP9] - max (sem = 0x7fd6a70a4170)
+[N7, Pr3, nP27] - max (sem = 0x7f605d444170)
+[N7, Pr4, nP9] - max (sem = 0x7f3b53085170)
+[N7, Pr4, nP11] - max (sem = 0x7f62e1b0a170)
+[N7, Pr3, nP26] - max (sem = 0x7fd36a640170)
+[N7, Pr4, nP13] - max (sem = 0x7f64b78fc170)
+[N7, Pr4, nP10] - max (sem = 0x7ff9744c7170)
+[N7, Pr4, nP14] - max (sem = 0x7f74a8fe1170)
+[N7, Pr3, nP5] - max (sem = 0x7f5541337170)
+[N7, Pr3, nP28] - max (sem = 0x7fa52b0af170)
+[N7, Consulta] - Bloqueo
+[N7, Pr4, nP15] - max (sem = 0x7fb378626170)
+[N7, Pr3, nP32] - max (sem = 0x7f9bcf73a170)
+[N7, Consulta] - Bloqueo
+[N7, Pr3, nP14] - max (sem = 0x7f722b8e8170)
+[N7, Consulta] - Bloqueo
+[N7, Consulta] - Bloqueo
+[N7, Pr3, nP24] - max (sem = 0x7fd99e117170)
+[N7, Consulta] - Bloqueo
+[N7, Consulta] - Bloqueo
+[N6, Pr1, nP0] - END
+[N6, Pr1, nP1] - END
+[N7, Pr3, nP34] - max (sem = 0x7f99878de170)
+[N7, Pr3, nP33] - max (sem = 0x7f70f873d170)
+[N6, Pr1, nP3] - END
+[N6, Pr1, nP4] - END
+[N7, Pr3, nP16] - max (sem = 0x7feb9edeb170)
+[N7, Pr3, nP35] - max (sem = 0x7fcdedff3170)
+[N7, Pr3, nP36] - max (sem = 0x7f640c7b7170)
+[N6, Pr1, nP5] - END
+[N7, Consulta] - Bloqueo
+[N7, Consulta] - Bloqueo
+[N7, Consulta] - Bloqueo
+[N7, Consulta] - Bloqueo
+[N6, Pr1, nP6] - END
+[N7, Pr3, nP37] - max (sem = 0x7f52b68fa170)
+[N6, Pr1, nP7] - END
+[N6, Pr1, nP8] - END
+[N6, Pr1, nP11] - END
+[N8, Pr1, nP0] - Disputa
+[N7, Pr3, nP38] - max (sem = 0x7f7763240170)
+[N7, Pr4, nP0] - max (sem = 0x7fa1eecb8170)
+[N7, Pr4, nP4] - max (sem = 0x7f5003a1a170)
+[N7, Pr4, nP3] - max (sem = 0x7f210f86b170)
+[N7, Pr3, nP39] - max (sem = 0x7f2c9f715170)
+[N7, Pr4, nP1] - max (sem = 0x7f8108072170)
+[N7, Pr4, nP6] - max (sem = 0x7f52e7213170)
+[N6, Pr1, nP9] - END
+[N7, Pr3, nP40] - max (sem = 0x7f46b21ad170)
+[N7, Consulta] - Bloqueo
+[N7, Pr4, nP8] - max (sem = 0x7f652b764170)
+[N7, Pr4, nP2] - max (sem = 0x7f2cf6c81170)
+[N7, Pr4, nP5] - max (sem = 0x7f3bf1d40170)
+[N7, Consulta] - Bloqueo
+[N7, Pr4, nP7] - max (sem = 0x7f3872728170)
+[N6, Pr1, nP10] - END
+[N6, Pr1, nP13] - END
+[N6, Pr1, nP14] - END
+[N6, Pr1, nP15] - END
+[N6, Pr1, nP17] - END
+[N6, Pr1, nP18] - END
+[N6, Pr1, nP12] - END
+[N6, Pr1, nP16] - END
+[N6, Pr1, nP20] - END
+[N6, Pr1, nP19] - END
+[N8, Pr3, nP33] - max (sem = 0x7f21054ef170)
+[N8, Pr3, nP37] - max (sem = 0x7f8d4cfab170)
+[N6, Pr1, nP23] - END
+[N8, Pr3, nP36] - max (sem = 0x7f7315e2b170)
+[N8, Pr3, nP34] - max (sem = 0x7f588f2fe170)
+[N8, Pr3, nP39] - max (sem = 0x7f5198d65170)
+[N8, Pr3, nP38] - max (sem = 0x7f6485599170)
+[N6, Pr1, nP24] - END
+[N8, Pr3, nP40] - max (sem = 0x7f6ab8032170)
+[N6, Pr1, nP22] - END
+[N8, Pr3, nP41] - max (sem = 0x7ff842c47170)
+[N6, Pr1, nP21] - Libera (sem = 0x7f8c0bea0170)
+[N6, Pr1, nP21] - END
+[N6, Pr2, nP16] - saleMax t = 19825008601
+[N6, Pr2, nP16] - Libera (sem = 0x7fa026f7d170)
+[N6, Pr2, nP18] - saleMax t = 19825008619
+[N6, Pr2, nP18] - Libera (sem = 0x7fb7d2a72170)
+[N6, Pr2, nP14] - saleMax t = 19825008633
+[N6, Pr2, nP14] - Libera (sem = 0x7eff230b1170)
+[N7, Pr1, nP1] - END
+[N6, Pr2, nP20] - saleMax t = 19825008647
+[N6, Pr2, nP20] - Libera (sem = 0x7f26fec74170)
+[N6, Pr2, nP17] - saleMax t = 19825008676
+[N6, Pr2, nP17] - Libera (sem = 0x7f6bc7aab170)
+[N6, Pr2, nP22] - saleMax t = 19825008691
+[N6, Pr2, nP22] - Libera (sem = 0x7fed62336170)
+[N6, Pr2, nP19] - saleMax t = 19825008705
+[N6, Pr2, nP19] - Libera (sem = 0x7fb818cf5170)
+[N8, Pr3, nP42] - max (sem = 0x7f752037a170)
+[N6, Pr2, nP25] - saleMax t = 19825008716
+[N6, Pr2, nP25] - Libera (sem = 0x7ffa6fa3a170)
+[N6, Pr2, nP24] - saleMax t = 19825008732
+[N6, Pr2, nP24] - Libera (sem = 0x7f8b456de170)
+[N6, Pr2, nP26] - saleMax t = 19825008746
+[N6, Pr2, nP26] - Libera (sem = 0x7fa7cf5c0170)
+[N8, Pr3, nP43] - max (sem = 0x7f9d3a431170)
+[N6, Pr2, nP21] - saleMax t = 19825008762
+[N6, Pr2, nP21] - Libera (sem = 0x7fa40bb09170)
+[N8, Pr3, nP44] - max (sem = 0x7f3e4b053170)
+[N6, Pr2, nP23] - saleMax t = 19825008780
+[N6, Pr2, nP23] - Libera (sem = 0x7fdcb6d40170)
+[N6, Pr2, nP29] - saleMax t = 19825008799
+[N6, Pr2, nP29] - Libera (sem = 0x7f312785c170)
+[N6, Pr2, nP30] - saleMax t = 19825008816
+[N6, Pr2, nP30] - Libera (sem = 0x7f0383749170)
+[N6, Pr2, nP32] - saleMax t = 19825008828
+[N6, Pr2, nP32] - Libera (sem = 0x7f17119f6170)
+[N6, Pr2, nP27] - saleMax t = 19825008844
+[N6, Pr2, nP27] - Libera (sem = 0x7f77a048d170)
+[N6, Pr2, nP33] - saleMax t = 19825008863
+[N6, Pr2, nP33] - Libera (sem = 0x7f397a698170)
+[N7, Pr1, nP0] - END
+[N6, Pr2, nP28] - saleMax t = 19825008882
+[N6, Pr2, nP28] - Libera (sem = 0x7f4d5abd7170)
+[N6, Pr2, nP36] - saleMax t = 19825008898
+[N6, Pr2, nP36] - Libera (sem = 0x7f2000edc170)
+[N6, Pr2, nP39] - saleMax t = 19825008914
+[N6, Pr2, nP39] - Libera (sem = 0x7fc9530eb170)
+[N6, Pr2, nP38] - saleMax t = 19825008930
+[N6, Pr2, nP38] - Libera (sem = 0x7fcfc8b02170)
+[N6, Pr2, nP35] - saleMax t = 19825008946
+[N6, Pr2, nP35] - Libera (sem = 0x7f8b6d60d170)
+[N6, Pr2, nP42] - saleMax t = 19825008990
+[N6, Pr2, nP42] - Libera (sem = 0x7fc98f6bd170)
+[N6, Pr2, nP43] - saleMax t = 19825009024
+[N6, Pr2, nP43] - Libera (sem = 0x7fa052909170)
+[N6, Pr2, nP31] - saleMax t = 19825009042
+[N6, Pr2, nP31] - Libera (sem = 0x7feb2a66c170)
+[N8, Pr3, nP46] - max (sem = 0x7fbaa24a5170)
+[N6, Pr2, nP34] - saleMax t = 19825009062
+[N7, Pr1, nP3] - END
+[N8, Pr3, nP47] - max (sem = 0x7efea6b05170)
+[N8, Pr3, nP45] - max (sem = 0x7f6f76aaf170)
+[N7, Pr1, nP4] - END
+[N8, Pr3, nP48] - max (sem = 0x7fa94107a170)
+[N8, Pr3, nP7] - max (sem = 0x7f623d5f6170)
+[N7, Pr1, nP5] - END
+[N7, Pr1, nP2] - END
+[N8, Pr3, nP49] - max (sem = 0x7f63a0bce170)
+[N8, Pr3, nP52] - max (sem = 0x7f4949808170)
+[N7, Pr1, nP7] - END
+[N7, Pr1, nP9] - END
+[N8, Pr3, nP56] - max (sem = 0x7fdb86ac8170)
+[N8, Pr3, nP57] - max (sem = 0x7fc2c1378170)
+[N7, Pr1, nP10] - END
+[N8, Pr3, nP58] - max (sem = 0x7fa16d661170)
+[N8, Pr3, nP59] - max (sem = 0x7fc52fc70170)
+[N7, Pr1, nP6] - END
+[N8, Pr3, nP63] - max (sem = 0x7fdd4b98d170)
+[N7, Pr1, nP11] - END
+[N8, Pr3, nP61] - max (sem = 0x7f3572ff7170)
+[N8, Pr3, nP60] - max (sem = 0x7f0d8c226170)
+[N8, Pr3, nP62] - max (sem = 0x7f1a895e8170)
+[N7, Pr1, nP8] - END
+[N8, Pr3, nP31] - max (sem = 0x7ff684163170)
+[N8, Pr3, nP66] - max (sem = 0x7fda2bb36170)
+[N8, Pr3, nP35] - max (sem = 0x7f3aa2e46170)
+[N8, Pr3, nP12] - max (sem = 0x7f3a62c77170)
+[N7, Pr1, nP14] - END
+[N8, Pr3, nP69] - max (sem = 0x7f13f5421170)
+[N8, Pr3, nP65] - max (sem = 0x7f97a42e6170)
+[N8, Pr3, nP71] - max (sem = 0x7f7970aa6170)
+[N7, Pr1, nP13] - END
+[N8, Pr3, nP53] - max (sem = 0x7fcb1dfc0170)
+[N8, Pr2, nP0] - max (sem = 0x7f98fc74b170)
+[N8, Pr3, nP9] - max (sem = 0x7f04b3183170)
+[N8, Pr3, nP73] - max (sem = 0x7f61c7f89170)
+[N7, Pr1, nP12] - END
+[N8, Pr3, nP67] - max (sem = 0x7fa43ba32170)
+[N8, Pr3, nP64] - max (sem = 0x7f7fa5e96170)
+[N8, Pr3, nP70] - max (sem = 0x7f6730072170)
+[N8, Pr4, nP0] - max (sem = 0x7f6b13f62170)
+[N7, Pr1, nP17] - END
+[N8, Pr4, nP1] - max (sem = 0x7f929ee6f170)
+[N8, Pr4, nP2] - max (sem = 0x7fa4c5c5d170)
+[N7, Pr1, nP16] - END
+[N7, Pr1, nP21] - END
+[N8, Pr3, nP13] - max (sem = 0x7f1cae797170)
+[N8, Pr3, nP72] - max (sem = 0x7f4d164db170)
+[N8, Pr3, nP14] - max (sem = 0x7f8c70c47170)
+[N7, Pr1, nP19] - END
+[N8, Pr3, nP16] - max (sem = 0x7f1e64924170)
+[N8, Consulta] - Bloqueo
+[N8, Pr3, nP50] - max (sem = 0x7f4bfdbc8170)
+[N8, Pr3, nP54] - max (sem = 0x7fc1801f6170)
+[N8, Consulta] - Bloqueo
+[N7, Pr1, nP20] - END
+[N8, Consulta] - Bloqueo
+[N8, Pr4, nP3] - max (sem = 0x7f71013a0170)
+[N8, Consulta] - Bloqueo
+[N8, Pr3, nP55] - max (sem = 0x7f5158497170)
+[N8, Consulta] - Bloqueo
+[N8, Consulta] - Bloqueo
+[N8, Consulta] - Bloqueo
+[N9, Pr1, nP0] - Disputa
+[N8, Consulta] - Bloqueo
+[N7, Pr1, nP22] - END
+[N7, Pr1, nP15] - END
+[N8, Pr3, nP68] - max (sem = 0x7f6c367c8170)
+[N9, Pr2, nP12] - max (sem = 0x7ff67777a170)
+[N9, Pr2, nP13] - max (sem = 0x7fe5ad208170)
+[N9, Consulta] - Bloqueo
+[N8, Pr3, nP51] - max (sem = 0x7feb7d394170)
+[N9, Pr2, nP17] - max (sem = 0x7fb6c7a0b170)
+[N7, Pr4, nP12] - max (sem = 0x7fc01436f170)
+[N9, Pr3, nP24] - max (sem = 0x7fd9d0e3f170)
+[N8, Pr3, nP74] - max (sem = 0x7f2854fc5170)
+[N9, Pr4, nP3] - max (sem = 0x7f306de91170)
+[N9, Pr2, nP11] - max (sem = 0x7f6975343170)
+[N9, Pr2, nP18] - max (sem = 0x7fea3f778170)
+[N9, Pr3, nP11] - max (sem = 0x7fc30d503170)
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Pr3, nP25] - max (sem = 0x7f848e91a170)
+[N9, Pr3, nP13] - max (sem = 0x7f473ac42170)
+[N9, Pr3, nP15] - max (sem = 0x7f87d2ada170)
+[N9, Pr3, nP17] - max (sem = 0x7f92b8c78170)
+[N9, Pr3, nP18] - max (sem = 0x7f1e959b6170)
+[N7, Pr1, nP18] - END
+[N7, Pr1, nP26] - END
+[N7, Pr1, nP24] - END
+[N7, Pr1, nP28] - END
+[N7, Pr1, nP23] - END
+[N9, Pr3, nP19] - max (sem = 0x7f08c1b73170)
+[N7, Pr1, nP32] - END
+[N7, Pr1, nP25] - END
+[N9, Pr3, nP22] - max (sem = 0x7f8903245170)
+[N9, Pr3, nP12] - max (sem = 0x7fb634409170)
+[N7, Pr1, nP33] - END
+[N9, Pr3, nP23] - max (sem = 0x7f890436d170)
+[N7, Pr1, nP27] - END
+[N7, Pr1, nP34] - END
+[N7, Pr1, nP31] - END
+[N7, Pr1, nP29] - END
+[N7, Pr1, nP38] - END
+[N7, Pr1, nP39] - END
+[N9, Pr3, nP8] - max (sem = 0x7f8046215170)
+[N9, Pr3, nP26] - max (sem = 0x7f9baa131170)
+[N8, Consulta] - Bloqueo
+[N8, Consulta] - Bloqueo
+[N7, Pr1, nP30] - END
+[N9, Pr3, nP16] - max (sem = 0x7fabf8610170)
+[N9, Pr2, nP16] - max (sem = 0x7fe8f286f170)
+[N9, Pr3, nP28] - max (sem = 0x7f7a049d7170)
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Pr3, nP21] - max (sem = 0x7f25f449a170)
+[N9, Pr3, nP7] - max (sem = 0x7f4baab4c170)
+[N9, Pr3, nP14] - max (sem = 0x7f33a6a8b170)
+[N9, Consulta] - Bloqueo
+[N9, Pr3, nP29] - max (sem = 0x7fda41ae3170)
+[N9, Pr4, nP0] - max (sem = 0x7fa43f725170)
+[N9, Pr4, nP1] - max (sem = 0x7fdb2371f170)
+[N9, Pr4, nP2] - max (sem = 0x7f10cef8e170)
+[N9, Pr4, nP9] - max (sem = 0x7f7aae9b6170)
+[N9, Consulta] - Bloqueo
+[N9, Pr2, nP15] - max (sem = 0x7fbdc7bc5170)
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Pr4, nP4] - max (sem = 0x7fe6faa58170)
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Pr4, nP7] - max (sem = 0x7fd7d9911170)
+[N9, Consulta] - Bloqueo
+[N9, Consulta] - Bloqueo
+[N9, Pr4, nP6] - max (sem = 0x7fb2cd7ad170)
+[N7, Pr1, nP35] - END
+[N7, Pr1, nP36] - END
+[N9, Consulta] - Bloqueo
+[N7, Pr1, nP45] - saleMax t = 19825027990
+[N7, Pr1, nP40] - Libera (sem = 0x7fdd28a18170)
+[N7, Pr1, nP40] - END
+[N7, Pr1, nP45] - Libera (sem = 0x7f693a8b4170)
+[N7, Pr1, nP45] - Disputa
+[N7, Pr1, nP46] - saleMax t = 19825028011
+[N7, Pr1, nP46] - Libera (sem = 0x7f3b7a305170)
+[N7, Pr1, nP41] - saleMax t = 19825028045
+[N7, Pr1, nP41] - Libera (sem = 0x7f7d0bf70170)
+[N7, Pr1, nP43] - saleMax t = 19825028064
+[N7, Pr1, nP43] - Libera (sem = 0x7fec33f1f170)
+[N7, Pr1, nP42] - saleMax t = 19825028087
+[N7, Pr1, nP42] - Libera (sem = 0x7f28d563f170)
+[N7, Pr1, nP47] - saleMax t = 19825028103
+[N7, Pr1, nP47] - Libera (sem = 0x7f3eb6ae2170)
+[N7, Pr1, nP37] - saleMax t = 19825028123
+[N7, Pr1, nP37] - Libera (sem = 0x7f610e306170)
+[N7, Pr2, nP3] - saleMax t = 19825028144
+[N7, Pr2, nP3] - Libera (sem = 0x7ff6ca40f170)
+[N7, Pr1, nP44] - saleMax t = 19825028167
+[N7, Pr1, nP44] - Libera (sem = 0x7f3702eb8170)
+[N7, Pr1, nP48] - saleMax t = 19825028190
+[N7, Pr1, nP48] - Libera (sem = 0x7f18f3ccc170)
+[N9, Pr4, nP5] - max (sem = 0x7f2695ef1170)
+[N7, Pr2, nP2] - saleMax t = 19825028213
+[N7, Pr2, nP2] - Libera (sem = 0x7fc739758170)
+[N7, Pr2, nP1] - saleMax t = 19825028238
+[N7, Pr2, nP1] - Libera (sem = 0x7fa364fec170)
+[N7, Pr1, nP49] - saleMax t = 19825028259
+[N7, Pr1, nP49] - Libera (sem = 0x7f55227aa170)
+[N7, Pr2, nP10] - saleMax t = 19825028277
+[N7, Pr2, nP10] - Libera (sem = 0x7f15e56f4170)
+[N7, Pr2, nP7] - saleMax t = 19825028296
+[N7, Pr2, nP7] - Libera (sem = 0x7f7af5238170)
+[N7, Pr2, nP4] - saleMax t = 19825028320
+[N7, Pr2, nP4] - Libera (sem = 0x7f33af44e170)
+[N7, Pr2, nP15] - saleMax t = 19825028340
+[N7, Pr2, nP15] - Libera (sem = 0x7f5727693170)
+[N7, Pr2, nP0] - saleMax t = 19825028358
+[N7, Pr1, nP45] - END
+[N8, Pr1, nP0] - END
+[N7, Pr2, nP0] - Libera (sem = 0x7f7cf25aa170)
+[N7, Pr2, nP5] - saleMax t = 19825028386
+[N7, Pr2, nP5] - Libera (sem = 0x7f4281782170)
+[N7, Pr2, nP17] - saleMax t = 19825028404
+[N7, Pr2, nP17] - Libera (sem = 0x7f30dc0d6170)
+[N7, Pr1, nP46] - END
+[N7, Pr2, nP13] - saleMax t = 19825028424
+[N7, Pr2, nP13] - Libera (sem = 0x7f4c0c606170)
+[N7, Pr2, nP6] - saleMax t = 19825028443
+[N8, Pr1, nP1] - END
+[N7, Pr2, nP6] - Libera (sem = 0x7ffa27a8c170)
+[N8, Pr1, nP4] - END
+[N7, Pr2, nP19] - saleMax t = 19825028575
+[N7, Pr1, nP41] - END
+[N7, Pr2, nP19] - Libera (sem = 0x7fd798bc3170)
+[N7, Pr2, nP20] - saleMax t = 19825028594
+[N7, Pr2, nP20] - Libera (sem = 0x7ff50027f170)
+[N7, Pr2, nP14] - saleMax t = 19825028611
+[N7, Pr2, nP14] - Libera (sem = 0x7f6f2e962170)
+[N7, Pr2, nP18] - saleMax t = 19825028624
+[N7, Pr2, nP18] - Libera (sem = 0x7fc050e07170)
+[N7, Pr2, nP22] - saleMax t = 19825028644
+[N7, Pr1, nP43] - END
+[N7, Pr2, nP22] - Libera (sem = 0x7f80c027a170)
+[N7, Pr2, nP24] - saleMax t = 19825028667
+[N7, Pr2, nP24] - Libera (sem = 0x7fa6de824170)
+[N7, Pr2, nP16] - saleMax t = 19825028688
+[N7, Pr2, nP16] - Libera (sem = 0x7fb268218170)
+[N7, Pr2, nP23] - saleMax t = 19825028709
+[N7, Pr2, nP23] - Libera (sem = 0x7fdb2063c170)
+[N7, Pr1, nP42] - END
+[N7, Pr2, nP26] - saleMax t = 19825028722
+[N7, Pr2, nP26] - Libera (sem = 0x7f8378092170)
+[N7, Pr2, nP28] - saleMax t = 19825028737
+[N7, Pr2, nP28] - Libera (sem = 0x7f4a54536170)
+[N7, Pr2, nP29] - saleMax t = 19825028755
+[N7, Pr2, nP29] - Libera (sem = 0x7ff67e1e6170)
+[N7, Pr2, nP21] - saleMax t = 19825028768
+[N7, Pr2, nP21] - Libera (sem = 0x7f8efc3e1170)
+[N7, Pr2, nP8] - saleMax t = 19825028782
+[N7, Pr1, nP47] - END
+[N7, Pr2, nP8] - Libera (sem = 0x7f50ae2d6170)
+[N7, Pr2, nP9] - saleMax t = 19825028795
+[N7, Pr2, nP9] - Libera (sem = 0x7fa6b17b9170)
+[N8, Pr1, nP2] - END
+[N7, Pr2, nP12] - saleMax t = 19825028809
+[N7, Pr2, nP12] - Libera (sem = 0x7fbf1de36170)
+[N7, Pr2, nP27] - saleMax t = 19825028830
+[N7, Pr2, nP27] - Libera (sem = 0x7f532abf8170)
+[N7, Pr3, nP4] - saleMax t = 19825028851
+[N7, Pr1, nP37] - END
+[N7, Pr3, nP4] - Libera (sem = 0x7f16fbd74170)
+[N7, Pr2, nP11] - saleMax t = 19825028868
+[N7, Pr2, nP11] - Libera (sem = 0x7f00bc09c170)
+[N7, Pr3, nP0] - saleMax t = 19825028884
+[N7, Pr1, nP44] - END
+[N7, Pr1, nP48] - END
+[N8, Pr1, nP3] - Libera (sem = 0x7fb506f11170)
+[N8, Pr1, nP3] - END
+[N9, Pr1, nP0] - END
+[N9, Pr1, nP2] - END
+[N9, Pr1, nP3] - END
+[N8, Pr3, nP33] - saleMax t = 19825029914
+[N8, Pr3, nP33] - Libera (sem = 0x7f21054ef170)
+[N8, Pr3, nP37] - saleMax t = 19825029939
+[N8, Pr3, nP37] - Libera (sem = 0x7f8d4cfab170)
+[N9, Pr1, nP4] - END
+[N8, Pr3, nP36] - saleMax t = 19825029962
+[N8, Pr3, nP36] - Libera (sem = 0x7f7315e2b170)
+[N8, Pr3, nP34] - saleMax t = 19825029981
+[N8, Pr3, nP34] - Libera (sem = 0x7f588f2fe170)
+[N8, Pr3, nP39] - saleMax t = 19825029994
+[N8, Pr3, nP39] - Libera (sem = 0x7f5198d65170)
+[N8, Pr3, nP38] - saleMax t = 19825030009
+[N9, Pr1, nP1] - END
+[N9, Pr1, nP5] - END
+[N9, Pr1, nP6] - END
+[N9, Pr1, nP7] - END
+[N9, Pr1, nP9] - END
+[N9, Pr1, nP10] - END
+[N9, Consulta] - Bloqueo
+[N9, Pr1, nP11] - END
+[N9, Pr1, nP12] - END
+[N9, Pr1, nP13] - END
+[N9, Pr1, nP14] - END
+[N9, Pr1, nP8] - END
+[N9, Pr2, nP0] - END
+[N9, Pr2, nP1] - END
+[N9, Pr2, nP2] - END
+[N9, Pr2, nP3] - END
+[N9, Pr2, nP4] - END
+[N9, Pr2, nP5] - END
+[N9, Pr2, nP6] - END
+[N9, Pr2, nP7] - END
+[N9, Pr2, nP8] - END
+[N9, Pr2, nP9] - END
+[N7, Pr1, nP49] - END
+[N7, Pr2, nP3] - END
+[N9, Pr2, nP10] - END
+[N7, Pr2, nP2] - END
+[N7, Pr2, nP1] - END
+[N9, Pr2, nP14] - END
+[N9, Pr2, nP19] - Libera (sem = 0x7f2354b7c170)
+[N9, Pr2, nP19] - END
+[N9, Pr2, nP12] - saleMax t = 19825034153
+[N9, Pr2, nP13] - saleMax t = 19825034168
+[N9, Pr2, nP12] - Libera (sem = 0x7ff67777a170)
+[N9, Pr2, nP12] - Disputa
+[N9, Pr2, nP13] - Libera (sem = 0x7fe5ad208170)
+[N9, Pr2, nP17] - saleMax t = 19825034197
+[N9, Pr2, nP17] - Libera (sem = 0x7fb6c7a0b170)
+[N9, Pr3, nP24] - saleMax t = 19825034213
+[N9, Pr3, nP24] - Libera (sem = 0x7fd9d0e3f170)
+[N9, Pr4, nP3] - saleMax t = 19825034229
+[N9, Pr4, nP3] - Libera (sem = 0x7f306de91170)
+[N9, Pr2, nP11] - saleMax t = 19825034245
+[N9, Pr2, nP11] - Libera (sem = 0x7f6975343170)
+[N9, Pr2, nP18] - saleMax t = 19825034262
+[N9, Pr2, nP18] - Libera (sem = 0x7fea3f778170)
+[N9, Pr3, nP11] - saleMax t = 19825034280
+[N9, Pr3, nP11] - Libera (sem = 0x7fc30d503170)
+[N9, Pr3, nP25] - saleMax t = 19825034296
+[N9, Pr3, nP25] - Libera (sem = 0x7f848e91a170)
+[N9, Pr3, nP13] - saleMax t = 19825034314
+[N9, Pr3, nP13] - Libera (sem = 0x7f473ac42170)
+[N9, Pr3, nP15] - saleMax t = 19825034330
+[N9, Pr3, nP15] - Libera (sem = 0x7f87d2ada170)
+[N9, Pr3, nP17] - saleMax t = 19825034347
+[N9, Pr3, nP17] - Libera (sem = 0x7f92b8c78170)
+[N9, Pr3, nP18] - saleMax t = 19825034367
+[N9, Pr3, nP18] - Libera (sem = 0x7f1e959b6170)
+[N9, Pr3, nP19] - saleMax t = 19825034385
+[N9, Pr3, nP19] - Libera (sem = 0x7f08c1b73170)
+[N9, Pr3, nP22] - saleMax t = 19825034400
+[N9, Pr3, nP22] - Libera (sem = 0x7f8903245170)
+[N9, Pr3, nP12] - saleMax t = 19825034445
+[N9, Pr3, nP12] - Libera (sem = 0x7fb634409170)
+[N9, Pr3, nP23] - saleMax t = 19825034464
+[N9, Pr3, nP8] - saleMax t = 19825034476
+[N9, Pr3, nP23] - Libera (sem = 0x7f890436d170)
+[N9, Pr3, nP8] - Libera (sem = 0x7f8046215170)
+[N9, Pr3, nP26] - saleMax t = 19825034505
+[N9, Pr3, nP26] - Libera (sem = 0x7f9baa131170)
+[N9, Pr3, nP16] - saleMax t = 19825034521
+[N9, Pr3, nP16] - Libera (sem = 0x7fabf8610170)
+[N9, Pr2, nP16] - saleMax t = 19825034538
+[N9, Pr2, nP16] - Libera (sem = 0x7fe8f286f170)
+[N9, Pr3, nP28] - saleMax t = 19825034549
+[N9, Pr3, nP28] - Libera (sem = 0x7f7a049d7170)
+[N9, Pr3, nP21] - saleMax t = 19825034560
+[N9, Pr3, nP21] - Libera (sem = 0x7f25f449a170)
+[N9, Pr3, nP7] - saleMax t = 19825034572
+[N9, Pr3, nP7] - Libera (sem = 0x7f4baab4c170)
+[N9, Pr3, nP14] - saleMax t = 19825034584
+[N9, Pr3, nP14] - Libera (sem = 0x7f33a6a8b170)
+[N9, Pr3, nP29] - saleMax t = 19825034594
+[N9, Pr3, nP29] - Libera (sem = 0x7fda41ae3170)
+[N9, Pr4, nP0] - saleMax t = 19825034604
+[N9, Pr4, nP0] - Libera (sem = 0x7fa43f725170)
+[N9, Pr4, nP1] - saleMax t = 19825034617
+[N9, Pr4, nP1] - Libera (sem = 0x7fdb2371f170)
+[N9, Pr4, nP2] - saleMax t = 19825034627
+[N7, Pr2, nP10] - END
+[N7, Pr2, nP7] - END
+[N7, Pr2, nP4] - END
+[N7, Pr2, nP15] - END
+[N7, Pr2, nP0] - END
+[N7, Pr2, nP5] - END
+[N7, Pr2, nP17] - END
+[N7, Pr2, nP13] - END
+[N7, Pr2, nP6] - END
+[N7, Pr2, nP19] - END
+[N7, Pr2, nP20] - END
+[N7, Pr2, nP14] - END
+[N7, Pr2, nP18] - END
+[N7, Pr2, nP22] - END
+[N7, Pr2, nP24] - END
+[N7, Pr2, nP16] - END
+[N7, Pr2, nP23] - END
+[N7, Pr2, nP26] - END
+[N7, Pr2, nP28] - END
+[N7, Pr2, nP29] - END
+[N7, Pr2, nP21] - END
+[N7, Pr2, nP8] - END
+[N7, Pr2, nP9] - END
+[N7, Pr2, nP12] - END
+[N7, Pr2, nP27] - END
+[N7, Pr2, nP11] - Libera (sem = 0x7f00bc09c170)
+[N7, Pr2, nP11] - END
+[N7, Pr3, nP7] - saleMax t = 19825038735
+[N7, Pr3, nP7] - Libera (sem = 0x7fce0b21f170)
+[N7, Pr3, nP1] - saleMax t = 19825038755
+[N7, Pr3, nP1] - Libera (sem = 0x7f98ba946170)
+[N7, Pr2, nP25] - saleMax t = 19825038770
+[N7, Pr2, nP25] - Libera (sem = 0x7f63a08f3170)
+[N7, Pr2, nP25] - Disputa
+[N8, Pr2, nP1] - END
+[N7, Pr3, nP11] - saleMax t = 19825038890
+[N7, Pr3, nP11] - Libera (sem = 0x7f30c24ad170)
+[N7, Pr3, nP8] - saleMax t = 19825038919
+[N7, Pr3, nP8] - Libera (sem = 0x7fa129ce2170)
+[N7, Pr3, nP15] - saleMax t = 19825038933
+[N7, Pr3, nP15] - Libera (sem = 0x7fec0abd3170)
+[N7, Pr3, nP3] - saleMax t = 19825038956
+[N7, Pr3, nP3] - Libera (sem = 0x7f78b4218170)
+[N8, Pr2, nP2] - END
+[N7, Pr3, nP2] - saleMax t = 19825038983
+[N7, Pr3, nP2] - Libera (sem = 0x7faca32c7170)
+[N7, Pr3, nP18] - saleMax t = 19825039006
+[N7, Pr3, nP18] - Libera (sem = 0x7f306e70e170)
+[N7, Pr3, nP13] - saleMax t = 19825039025
+[N7, Pr3, nP13] - Libera (sem = 0x7f9da3c22170)
+[N7, Pr3, nP6] - saleMax t = 19825039039
+[N7, Pr3, nP6] - Libera (sem = 0x7f0d19bca170)
+[N7, Pr3, nP12] - saleMax t = 19825039063
+[N7, Pr3, nP12] - Libera (sem = 0x7f57467c9170)
+[N7, Pr2, nP30] - saleMax t = 19825039085
+[N7, Pr2, nP30] - Libera (sem = 0x7f359399b170)
+[N7, Pr3, nP22] - saleMax t = 19825039099
+[N7, Pr3, nP22] - Libera (sem = 0x7f2fb8de8170)
+[N7, Pr3, nP19] - saleMax t = 19825039120
+[N7, Pr2, nP25] - END
+[N7, Pr3, nP19] - Libera (sem = 0x7f8a07d2a170)
+[N7, Pr2, nP31] - saleMax t = 19825039140
+[N7, Pr2, nP31] - Libera (sem = 0x7f023eef4170)
+[N7, Pr3, nP23] - saleMax t = 19825039153
+[N8, Pr2, nP3] - END
+[N7, Pr3, nP23] - Libera (sem = 0x7fa01011e170)
+[N7, Pr3, nP20] - saleMax t = 19825039168
+[N7, Pr3, nP20] - Libera (sem = 0x7fd3331ff170)
+[N7, Pr3, nP21] - saleMax t = 19825039179
+[N7, Pr3, nP21] - Libera (sem = 0x7f0fc80b0170)
+[N7, Pr3, nP25] - saleMax t = 19825039193
+[N7, Pr3, nP25] - Libera (sem = 0x7f00a1986170)
+[N8, Pr2, nP4] - END
+[N7, Pr3, nP10] - saleMax t = 19825039209
+[N7, Pr3, nP10] - Libera (sem = 0x7f44b6f0a170)
+[N7, Pr3, nP17] - saleMax t = 19825039223
+[N7, Pr3, nP17] - Libera (sem = 0x7f30ae482170)
+[N7, Pr3, nP29] - saleMax t = 19825039237
+[N7, Pr3, nP29] - Libera (sem = 0x7f24bf3c7170)
+[N7, Pr3, nP30] - saleMax t = 19825039251
+[N7, Pr3, nP30] - Libera (sem = 0x7fd672558170)
+[N7, Pr3, nP31] - saleMax t = 19825039266
+[N7, Pr3, nP31] - Libera (sem = 0x7fa62b7e3170)
+[N7, Pr3, nP27] - saleMax t = 19825039287
+[N7, Pr3, nP27] - Libera (sem = 0x7f605d444170)
+[N7, Pr4, nP9] - saleMax t = 19825039304
+[N7, Pr2, nP30] - END
+[N7, Pr4, nP9] - Libera (sem = 0x7f3b53085170)
+[N7, Pr3, nP9] - saleMax t = 19825039319
+[N7, Pr3, nP9] - Libera (sem = 0x7fd6a70a4170)
+[N7, Pr4, nP11] - saleMax t = 19825039337
+[N7, Pr4, nP11] - Libera (sem = 0x7f62e1b0a170)
+[N7, Pr3, nP26] - saleMax t = 19825039349
+[N7, Pr3, nP26] - Libera (sem = 0x7fd36a640170)
+[N7, Pr4, nP13] - saleMax t = 19825039363
+[N8, Pr2, nP6] - END
+[N7, Pr4, nP13] - Libera (sem = 0x7f64b78fc170)
+[N7, Pr2, nP31] - END
+[N7, Pr4, nP10] - saleMax t = 19825039423
+[N7, Pr4, nP10] - Libera (sem = 0x7ff9744c7170)
+[N8, Pr2, nP8] - END
+[N7, Pr4, nP14] - saleMax t = 19825039450
+[N7, Pr3, nP4] - END
+[N7, Pr4, nP14] - Libera (sem = 0x7f74a8fe1170)
+[N7, Pr3, nP5] - saleMax t = 19825039472
+[N7, Pr3, nP5] - Libera (sem = 0x7f5541337170)
+[N7, Pr3, nP28] - saleMax t = 19825039487
+[N7, Pr3, nP28] - Libera (sem = 0x7fa52b0af170)
+[N7, Pr4, nP15] - saleMax t = 19825039502
+[N7, Pr4, nP15] - Libera (sem = 0x7fb378626170)
+[N7, Pr3, nP32] - saleMax t = 19825039522
+[N7, Pr3, nP32] - Libera (sem = 0x7f9bcf73a170)
+[N7, Pr3, nP14] - saleMax t = 19825039539
+[N7, Pr3, nP5] - END
+[N7, Pr3, nP14] - Libera (sem = 0x7f722b8e8170)
+[N7, Pr3, nP24] - saleMax t = 19825039569
+[N8, Pr2, nP9] - END
+[N7, Pr3, nP14] - END
+[N7, Pr3, nP1] - END
+[N8, Pr2, nP5] - END
+[N8, Pr2, nP7] - Libera (sem = 0x7f9f83fa4170)
+[N8, Pr2, nP7] - END
+[N8, Pr3, nP40] - saleMax t = 19825039811
+[N8, Pr3, nP40] - Libera (sem = 0x7f6ab8032170)
+[N8, Pr3, nP41] - saleMax t = 19825039829
+[N7, Pr3, nP11] - END
+[N8, Pr3, nP41] - Libera (sem = 0x7ff842c47170)
+[N8, Pr3, nP42] - saleMax t = 19825039849
+[N8, Pr3, nP42] - Libera (sem = 0x7f752037a170)
+[N5, Pr2, nP0] - END
+[N8, Pr3, nP43] - saleMax t = 19825039864
+[N8, Pr3, nP43] - Libera (sem = 0x7f9d3a431170)
+[N8, Pr3, nP44] - saleMax t = 19825039879
+[N8, Pr3, nP44] - Libera (sem = 0x7f3e4b053170)
+[N8, Pr3, nP46] - saleMax t = 19825039895
+[N8, Pr3, nP46] - Libera (sem = 0x7fbaa24a5170)
+[N8, Pr3, nP47] - saleMax t = 19825039910
+[N8, Pr3, nP47] - Libera (sem = 0x7efea6b05170)
+[N8, Pr3, nP45] - saleMax t = 19825039924
+[N8, Pr3, nP45] - Libera (sem = 0x7f6f76aaf170)
+[N8, Pr3, nP48] - saleMax t = 19825039943
+[N5, Pr2, nP1] - END
+[N7, Pr3, nP8] - END
+[N7, Pr3, nP15] - END
+[N5, Pr2, nP4] - END
+[N5, Pr2, nP5] - END
+[N5, Pr2, nP6] - END
+[N7, Pr3, nP3] - END
+[N5, Pr2, nP2] - END
+[N7, Pr3, nP2] - END
+[N5, Pr2, nP3] - END
+[N7, Pr3, nP18] - END
+[N5, Pr2, nP7] - END
+[N5, Pr2, nP9] - END
+[N7, Pr3, nP13] - END
+[N7, Pr3, nP6] - END
+[N5, Pr2, nP8] - END
+[N7, Pr3, nP12] - END
+[N7, Pr3, nP22] - END
+[N7, Pr3, nP19] - END
+[N7, Pr3, nP23] - END
+[N6, Pr2, nP0] - END
+[N6, Pr2, nP1] - END
+[N7, Pr3, nP20] - END
+[N6, Pr2, nP3] - END
+[N7, Pr3, nP21] - END
+[N6, Pr2, nP5] - END
+[N7, Pr3, nP25] - END
+[N7, Pr3, nP10] - END
+[N6, Pr2, nP6] - END
+[N7, Pr3, nP17] - END
+[N6, Pr2, nP4] - END
+[N6, Pr2, nP2] - END
+[N7, Pr3, nP29] - END
+[N7, Pr3, nP30] - END
+[N7, Pr3, nP31] - END
+[N7, Pr3, nP27] - END
+[N7, Pr3, nP9] - END
+[N7, Pr3, nP26] - END
+[N7, Pr3, nP28] - END
+[N6, Pr2, nP8] - END
+[N6, Pr2, nP9] - END
+[N6, Pr2, nP10] - END
+[N6, Pr2, nP12] - END
+[N6, Pr2, nP13] - END
+[N6, Pr2, nP7] - END
+[N6, Pr2, nP15] - END
+[N6, Pr2, nP11] - END
+[N6, Pr2, nP16] - END
+[N6, Pr2, nP18] - END
+[N6, Pr2, nP14] - END
+[N6, Pr2, nP20] - END
+[N6, Pr2, nP17] - END
+[N7, Pr3, nP32] - END
+[N6, Pr2, nP22] - END
+[N6, Pr2, nP19] - END
+[N6, Pr2, nP25] - END
+[N7, Pr3, nP0] - END
+[N6, Pr2, nP24] - END
+[N6, Pr2, nP26] - END
+[N7, Pr3, nP24] - END
+[N6, Pr2, nP21] - END
+[N6, Pr2, nP23] - END
+[N6, Pr2, nP29] - END
+[N6, Pr2, nP30] - END
+[N6, Pr2, nP32] - END
+[N6, Pr2, nP27] - END
+[N6, Pr2, nP33] - END
+[N6, Pr2, nP28] - END
+[N6, Pr2, nP36] - END
+[N6, Pr2, nP39] - END
+[N6, Pr2, nP38] - END
+[N6, Pr2, nP35] - END
+[N6, Pr2, nP42] - END
+[N6, Pr2, nP43] - END
+[N6, Pr2, nP31] - END
+[N6, Pr2, nP34] - Libera (sem = 0x7fb4c89ee170)
+[N6, Pr2, nP46] - saleMax t = 19825047523
+[N6, Pr2, nP34] - END
+[N6, Pr2, nP46] - Libera (sem = 0x7f6a85f00170)
+[N6, Pr2, nP46] - Disputa
+[N6, Pr2, nP41] - saleMax t = 19825047549
+[N6, Pr2, nP41] - Libera (sem = 0x7f3ce8608170)
+[N9, Pr2, nP13] - END
+[N6, Pr2, nP49] - saleMax t = 19825047585
+[N6, Pr2, nP49] - Libera (sem = 0x7fe7bbe23170)
+[N6, Pr2, nP47] - saleMax t = 19825047612
+[N6, Pr2, nP47] - Libera (sem = 0x7f8f3e31a170)
+[N6, Pr2, nP44] - saleMax t = 19825047633
+[N6, Pr2, nP44] - Libera (sem = 0x7fcd0a714170)
+[N9, Pr2, nP17] - END
+[N6, Pr2, nP37] - saleMax t = 19825047651
+[N6, Pr2, nP37] - Libera (sem = 0x7fa71c580170)
+[N6, Pr2, nP48] - saleMax t = 19825047674
+[N6, Pr2, nP48] - Libera (sem = 0x7f3a970ed170)
+[N6, Pr2, nP45] - saleMax t = 19825047691
+[N6, Pr2, nP45] - Libera (sem = 0x7ff0b7605170)
+[N6, Pr3, nP4] - saleMax t = 19825047708
+[N9, Pr2, nP11] - END
+[N6, Pr3, nP4] - Libera (sem = 0x7ff909ed6170)
+[N6, Pr3, nP1] - saleMax t = 19825047728
+[N6, Pr3, nP1] - Libera (sem = 0x7f683d123170)
+[N9, Pr2, nP18] - END
+[N9, Pr2, nP12] - END
+[N9, Pr2, nP16] - Libera (sem = 0x7fe8f286f170)
+[N9, Pr4, nP9] - saleMax t = 19825047943
+[N9, Pr2, nP16] - END
+[N9, Pr4, nP9] - Libera (sem = 0x7f7aae9b6170)
+[N9, Pr2, nP15] - saleMax t = 19825047961
+[N9, Pr2, nP15] - Libera (sem = 0x7fbdc7bc5170)
+[N9, Pr2, nP15] - Disputa
+[N9, Pr4, nP4] - saleMax t = 19825047982
+[N9, Pr4, nP4] - Libera (sem = 0x7fe6faa58170)
+[N9, Pr4, nP7] - saleMax t = 19825048006
+[N6, Pr2, nP41] - END
+[N9, Pr4, nP7] - Libera (sem = 0x7fd7d9911170)
+[N9, Pr4, nP6] - saleMax t = 19825048029
+[N9, Pr4, nP6] - Libera (sem = 0x7fb2cd7ad170)
+[N9, Pr4, nP5] - saleMax t = 19825048045
+[N6, Pr2, nP46] - END
+[N6, Pr2, nP49] - END
+[N6, Pr2, nP47] - END
+[N6, Pr2, nP44] - END
+[N6, Pr2, nP37] - END
+[N6, Pr2, nP48] - END
+[N6, Pr2, nP45] - Libera (sem = 0x7ff0b7605170)
+[N6, Pr2, nP45] - END
+[N9, Pr2, nP15] - END
+[N9, Pr3, nP1] - END
+[N9, Pr3, nP0] - END
+[N9, Pr3, nP6] - END
+[N9, Pr3, nP9] - END
+[N9, Pr3, nP2] - END
+[N6, Pr3, nP0] - saleMax t = 19825049039
+[N6, Pr3, nP0] - Libera (sem = 0x7ff0e844b170)
+[N9, Pr3, nP10] - END
+[N9, Pr3, nP3] - END
+[N6, Pr2, nP50] - saleMax t = 19825049132
+[N6, Pr2, nP50] - Libera (sem = 0x7f2ce0867170)
+[N6, Pr2, nP50] - Disputa
+[N6, Pr4, nP2] - saleMax t = 19825049151
+[N6, Pr4, nP2] - Libera (sem = 0x7fb4d44b1170)
+[N7, Pr3, nP7] - Libera (sem = 0x7fce0b21f170)
+[N6, Pr4, nP6] - saleMax t = 19825049173
+[N7, Pr3, nP7] - END
+[N6, Pr4, nP6] - Libera (sem = 0x7f4a0dceb170)
+[N9, Pr3, nP4] - END
+[N6, Pr2, nP50] - END
+[N6, Pr3, nP4] - END
+[N6, Pr3, nP1] - END
+[N6, Pr3, nP0] - Libera (sem = 0x7ff0e844b170)
+[N6, Pr4, nP5] - saleMax t = 19825050063
+[N6, Pr3, nP0] - END
+[N6, Pr4, nP5] - Libera (sem = 0x7f56cf61f170)
+[N6, Pr2, nP54] - saleMax t = 19825050078
+[N6, Pr2, nP54] - Libera (sem = 0x7f37d2b9a170)
+[N6, Pr2, nP54] - Disputa
+[N6, Pr3, nP3] - saleMax t = 19825050091
+[N6, Pr3, nP3] - Libera (sem = 0x7ff581ec0170)
+[N6, Pr2, nP53] - saleMax t = 19825050149
+[N5, Pr3, nP0] - END
+[N6, Pr2, nP53] - Libera (sem = 0x7f46d4a0a170)
+[N6, Pr4, nP0] - saleMax t = 19825050171
+[N6, Pr4, nP0] - Libera (sem = 0x7f409eb85170)
+[N6, Pr2, nP52] - saleMax t = 19825050182
+[N6, Pr2, nP52] - Libera (sem = 0x7f9852449170)
+[N6, Pr2, nP51] - saleMax t = 19825050203
+[N6, Pr2, nP51] - Libera (sem = 0x7fe27d316170)
+[N6, Pr3, nP2] - saleMax t = 19825050217
+[N6, Pr3, nP2] - Libera (sem = 0x7f6b28cf2170)
+[N6, Pr4, nP1] - saleMax t = 19825050227
+[N6, Pr4, nP1] - Libera (sem = 0x7f27ceb62170)
+[N6, Pr4, nP7] - saleMax t = 19825050239
+[N6, Pr4, nP7] - Libera (sem = 0x7fa2808c0170)
+[N6, Pr4, nP3] - saleMax t = 19825050739
+[N6, Pr4, nP3] - Libera (sem = 0x7f9998338170)
+[N6, Pr2, nP40] - saleMax t = 19825050762
+[N7, Pr3, nP34] - saleMax t = 19825050766
+[N6, Pr2, nP40] - Libera (sem = 0x7f5af3960170)
+[N7, Pr3, nP34] - Libera (sem = 0x7f99878de170)
+[N7, Pr3, nP34] - Disputa
+[N6, Pr4, nP4] - saleMax t = 19825050777
+[N7, Pr3, nP33] - saleMax t = 19825050778
+[N6, Pr4, nP4] - Libera (sem = 0x7f92bb73c170)
+[N7, Pr3, nP33] - Libera (sem = 0x7f70f873d170)
+[N6, Pr4, nP8] - saleMax t = 19825050801
+[N6, Pr4, nP8] - Libera (sem = 0x7fbae35d6170)
+[N7, Pr3, nP16] - saleMax t = 19825050816
+[N7, Pr3, nP16] - Libera (sem = 0x7feb9edeb170)
+[N7, Pr3, nP35] - saleMax t = 19825050837
+[N7, Pr3, nP35] - Libera (sem = 0x7fcdedff3170)
+[N7, Pr3, nP36] - saleMax t = 19825050851
+[N7, Pr3, nP36] - Libera (sem = 0x7f640c7b7170)
+[N7, Pr3, nP37] - saleMax t = 19825050864
+[N7, Pr3, nP37] - Libera (sem = 0x7f52b68fa170)
+[N7, Pr3, nP38] - saleMax t = 19825050877
+[N7, Pr3, nP38] - Libera (sem = 0x7f7763240170)
+[N7, Pr4, nP0] - saleMax t = 19825050889
+[N7, Pr4, nP0] - Libera (sem = 0x7fa1eecb8170)
+[N7, Pr4, nP4] - saleMax t = 19825050905
+[N7, Pr4, nP4] - Libera (sem = 0x7f5003a1a170)
+[N7, Pr4, nP3] - saleMax t = 19825050917
+[N7, Pr4, nP3] - Libera (sem = 0x7f210f86b170)
+[N7, Pr3, nP39] - saleMax t = 19825050930
+[N7, Pr3, nP39] - Libera (sem = 0x7f2c9f715170)
+[N7, Pr4, nP1] - saleMax t = 19825050950
+[N7, Pr4, nP1] - Libera (sem = 0x7f8108072170)
+[N7, Pr4, nP6] - saleMax t = 19825050964
+[N7, Pr4, nP6] - Libera (sem = 0x7f52e7213170)
+[N7, Pr3, nP40] - saleMax t = 19825050976
+[N7, Pr3, nP40] - Libera (sem = 0x7f46b21ad170)
+[N7, Pr4, nP8] - saleMax t = 19825050988
+[N7, Pr4, nP8] - Libera (sem = 0x7f652b764170)
+[N7, Pr4, nP2] - saleMax t = 19825051004
+[N7, Pr4, nP2] - Libera (sem = 0x7f2cf6c81170)
+[N7, Pr4, nP5] - saleMax t = 19825051016
+[N7, Pr4, nP5] - Libera (sem = 0x7f3bf1d40170)
+[N7, Pr4, nP7] - saleMax t = 19825051030
+[N7, Pr4, nP7] - Libera (sem = 0x7f3872728170)
+[N7, Pr4, nP12] - saleMax t = 19825051051
+[N6, Pr4, nP9] - saleMax t = 19825052992
+[N6, Pr2, nP54] - END
+[N6, Pr2, nP53] - END
+[N6, Pr2, nP52] - END
+[N6, Pr2, nP51] - END
+[N6, Pr2, nP40] - END
+[N6, Pr3, nP3] - END
+[N6, Pr3, nP2] - END
+[N5, Pr3, nP2] - END
+[N5, Pr3, nP4] - END
+[N5, Pr3, nP5] - END
+[N5, Pr3, nP6] - END
+[N5, Pr3, nP7] - END
+[N5, Pr3, nP8] - END
+[N5, Pr3, nP1] - END
+[N5, Pr3, nP3] - END
+[N5, Pr3, nP9] - END
+[N8, Pr3, nP1] - END
+[N8, Pr3, nP3] - END
+[N8, Pr3, nP5] - END
+[N8, Pr3, nP2] - END
+[N8, Pr3, nP8] - END
+[N8, Pr3, nP6] - END
+[N8, Pr3, nP4] - END
+[N8, Pr3, nP0] - END
+[N8, Pr3, nP15] - END
+[N8, Pr3, nP10] - END
+[N8, Pr3, nP11] - END
+[N8, Pr3, nP17] - END
+[N8, Pr3, nP18] - END
+[N8, Pr3, nP19] - END
+[N8, Pr3, nP21] - END
+[N8, Pr3, nP20] - END
+[N8, Pr3, nP22] - END
+[N8, Pr3, nP23] - END
+[N8, Pr3, nP24] - END
+[N8, Pr3, nP26] - END
+[N8, Pr3, nP27] - END
+[N8, Pr3, nP25] - END
+[N8, Pr3, nP28] - END
+[N8, Pr3, nP30] - END
+[N8, Pr3, nP29] - END
+[N8, Pr3, nP32] - END
+[N8, Pr3, nP33] - END
+[N8, Pr3, nP37] - END
+[N8, Pr3, nP36] - END
+[N8, Pr3, nP34] - END
+[N8, Pr3, nP39] - END
+[N8, Pr3, nP38] - END
+[N8, Pr3, nP40] - END
+[N8, Pr3, nP41] - END
+[N8, Pr3, nP42] - END
+[N8, Pr3, nP43] - END
+[N8, Pr3, nP44] - END
+[N8, Pr3, nP46] - END
+[N8, Pr3, nP47] - END
+[N8, Pr3, nP45] - END
+[N8, Pr3, nP48] - Libera (sem = 0x7fa94107a170)
+[N8, Pr3, nP7] - saleMax t = 19825058278
+[N8, Pr3, nP48] - END
+[N8, Pr3, nP7] - Libera (sem = 0x7f623d5f6170)
+[N8, Pr3, nP7] - Disputa
+[N8, Pr3, nP49] - saleMax t = 19825058298
+[N8, Pr3, nP49] - Libera (sem = 0x7f63a0bce170)
+[N9, Pr3, nP20] - END
+[N8, Pr3, nP52] - saleMax t = 19825058379
+[N8, Pr3, nP52] - Libera (sem = 0x7f4949808170)
+[N8, Pr3, nP56] - saleMax t = 19825058397
+[N8, Pr3, nP56] - Libera (sem = 0x7fdb86ac8170)
+[N8, Pr3, nP57] - saleMax t = 19825058419
+[N8, Pr3, nP57] - Libera (sem = 0x7fc2c1378170)
+[N8, Pr3, nP58] - saleMax t = 19825058449
+[N8, Pr3, nP58] - Libera (sem = 0x7fa16d661170)
+[N8, Pr3, nP59] - saleMax t = 19825058462
+[N8, Pr3, nP59] - Libera (sem = 0x7fc52fc70170)
+[N8, Pr3, nP63] - saleMax t = 19825058522
+[N9, Pr3, nP27] - END
+[N8, Pr3, nP63] - Libera (sem = 0x7fdd4b98d170)
+[N8, Pr3, nP61] - saleMax t = 19825058544
+[N8, Pr3, nP61] - Libera (sem = 0x7f3572ff7170)
+[N8, Pr3, nP62] - saleMax t = 19825058558
+[N8, Pr3, nP62] - Libera (sem = 0x7f1a895e8170)
+[N8, Pr3, nP60] - saleMax t = 19825058576
+[N8, Pr3, nP60] - Libera (sem = 0x7f0d8c226170)
+[N8, Pr3, nP31] - saleMax t = 19825058596
+[N8, Pr3, nP31] - Libera (sem = 0x7ff684163170)
+[N8, Pr3, nP66] - saleMax t = 19825058615
+[N8, Pr3, nP66] - Libera (sem = 0x7fda2bb36170)
+[N8, Pr3, nP35] - saleMax t = 19825058627
+[N8, Pr3, nP35] - Libera (sem = 0x7f3aa2e46170)
+[N8, Pr3, nP12] - saleMax t = 19825058657
+[N8, Pr3, nP12] - Libera (sem = 0x7f3a62c77170)
+[N8, Pr3, nP69] - saleMax t = 19825058669
+[N8, Pr3, nP69] - Libera (sem = 0x7f13f5421170)
+[N8, Pr3, nP65] - saleMax t = 19825058684
+[N8, Pr3, nP65] - Libera (sem = 0x7f97a42e6170)
+[N9, Pr3, nP5] - END
+[N8, Pr3, nP71] - saleMax t = 19825058698
+[N8, Pr3, nP71] - Libera (sem = 0x7f7970aa6170)
+[N8, Pr3, nP53] - saleMax t = 19825058715
+[N8, Pr3, nP53] - Libera (sem = 0x7fcb1dfc0170)
+[N8, Pr2, nP0] - saleMax t = 19825058732
+[N8, Pr2, nP0] - Libera (sem = 0x7f98fc74b170)
+[N8, Pr2, nP0] - Disputa
+[N9, Pr3, nP24] - END
+[N8, Pr3, nP9] - saleMax t = 19825058849
+[N8, Pr3, nP9] - Libera (sem = 0x7f04b3183170)
+[N8, Pr3, nP73] - saleMax t = 19825058866
+[N8, Pr3, nP73] - Libera (sem = 0x7f61c7f89170)
+[N8, Pr3, nP67] - saleMax t = 19825058878
+[N8, Pr3, nP67] - Libera (sem = 0x7fa43ba32170)
+[N8, Pr3, nP64] - saleMax t = 19825058895
+[N8, Pr3, nP64] - Libera (sem = 0x7f7fa5e96170)
+[N8, Pr3, nP70] - saleMax t = 19825058907
+[N8, Pr3, nP70] - Libera (sem = 0x7f6730072170)
+[N9, Pr3, nP11] - END
+[N8, Pr4, nP0] - saleMax t = 19825058918
+[N8, Pr4, nP0] - Libera (sem = 0x7f6b13f62170)
+[N8, Pr4, nP1] - saleMax t = 19825058932
+[N8, Pr4, nP1] - Libera (sem = 0x7f929ee6f170)
+[N8, Pr4, nP2] - saleMax t = 19825058947
+[N8, Pr4, nP2] - Libera (sem = 0x7fa4c5c5d170)
+[N8, Pr3, nP13] - saleMax t = 19825058959
+[N8, Pr3, nP13] - Libera (sem = 0x7f1cae797170)
+[N8, Pr3, nP72] - saleMax t = 19825058970
+[N8, Pr3, nP72] - Libera (sem = 0x7f4d164db170)
+[N8, Pr3, nP14] - saleMax t = 19825058986
+[N8, Pr3, nP14] - Libera (sem = 0x7f8c70c47170)
+[N8, Pr3, nP16] - saleMax t = 19825059005
+[N8, Pr3, nP16] - Libera (sem = 0x7f1e64924170)
+[N8, Pr3, nP50] - saleMax t = 19825059020
+[N8, Pr3, nP50] - Libera (sem = 0x7f4bfdbc8170)
+[N8, Pr3, nP54] - saleMax t = 19825059042
+[N8, Pr3, nP54] - Libera (sem = 0x7fc1801f6170)
+[N8, Pr4, nP3] - saleMax t = 19825059057
+[N8, Pr4, nP3] - Libera (sem = 0x7f71013a0170)
+[N8, Pr3, nP55] - saleMax t = 19825059069
+[N8, Pr3, nP55] - Libera (sem = 0x7f5158497170)
+[N8, Pr3, nP68] - saleMax t = 19825059084
+[N8, Pr3, nP68] - Libera (sem = 0x7f6c367c8170)
+[N8, Pr3, nP51] - saleMax t = 19825059103
+[N8, Pr3, nP51] - Libera (sem = 0x7feb7d394170)
+[N8, Pr3, nP74] - saleMax t = 19825059117
+[N9, Pr3, nP25] - END
+[N8, Pr2, nP0] - END
+[N8, Pr3, nP7] - END
+[N9, Pr3, nP13] - END
+[N8, Pr3, nP49] - END
+[N9, Pr3, nP15] - END
+[N8, Pr3, nP52] - END
+[N8, Pr3, nP56] - END
+[N8, Pr3, nP57] - END
+[N9, Pr3, nP17] - END
+[N8, Pr3, nP58] - END
+[N8, Pr3, nP59] - END
+[N9, Pr3, nP18] - END
+[N8, Pr3, nP63] - END
+[N8, Pr3, nP61] - END
+[N8, Pr3, nP62] - END
+[N9, Pr3, nP19] - END
+[N8, Pr3, nP60] - END
+[N8, Pr3, nP31] - END
+[N8, Pr3, nP66] - END
+[N9, Pr3, nP22] - END
+[N8, Pr3, nP35] - END
+[N8, Pr3, nP12] - END
+[N9, Pr3, nP12] - END
+[N8, Pr3, nP69] - END
+[N8, Pr3, nP65] - END
+[N8, Pr3, nP71] - END
+[N9, Pr3, nP23] - END
+[N8, Pr3, nP53] - END
+[N9, Pr3, nP8] - END
+[N8, Pr3, nP9] - END
+[N9, Pr3, nP26] - END
+[N9, Pr3, nP16] - END
+[N9, Pr3, nP28] - END
+[N8, Pr3, nP73] - END
+[N9, Pr3, nP21] - END
+[N9, Pr3, nP7] - END
+[N8, Pr3, nP67] - END
+[N9, Pr3, nP14] - END
+[N8, Pr3, nP64] - END
+[N8, Pr3, nP70] - END
+[N8, Pr3, nP13] - END
+[N8, Pr3, nP72] - END
+[N9, Pr3, nP29] - END
+[N8, Pr3, nP14] - END
+[N8, Pr3, nP16] - END
+[N8, Pr3, nP50] - END
+[N8, Pr3, nP54] - END
+[N8, Pr3, nP55] - END
+[N8, Pr3, nP68] - END
+[N8, Pr3, nP51] - END
+[N8, Pr3, nP74] - END
+[N1, Pr3, nP4] - END
+[N1, Pr3, nP1] - END
+[N1, Pr3, nP0] - END
+[N1, Pr3, nP6] - END
+[N1, Pr3, nP9] - END
+[N1, Pr3, nP7] - END
+[N1, Pr3, nP8] - END
+[N1, Pr3, nP2] - END
+[N1, Pr3, nP5] - END
+[N2, Pr3, nP4] - END
+[N2, Pr3, nP1] - END
+[N2, Pr3, nP2] - END
+[N2, Pr3, nP3] - END
+[N2, Pr3, nP0] - END
+[N4, Pr3, nP3] - END
+[N4, Pr3, nP5] - END
+[N4, Pr3, nP4] - END
+[N4, Pr3, nP6] - END
+[N4, Pr3, nP7] - END
+[N4, Pr3, nP8] - END
+[N4, Pr3, nP9] - END
+[N7, Pr3, nP33] - END
+[N7, Pr3, nP34] - END
+[N7, Pr3, nP16] - END
+[N7, Pr3, nP35] - END
+[N7, Pr3, nP36] - END
+[N7, Pr3, nP37] - END
+[N7, Pr3, nP38] - END
+[N7, Pr3, nP39] - END
+[N7, Pr3, nP40] - END
+[N7, Pr4, nP9] - END
+[N7, Pr4, nP11] - END
+[N7, Pr4, nP13] - END
+[N7, Pr4, nP10] - END
+[N7, Pr4, nP14] - END
+[N7, Pr4, nP15] - END
+[N7, Pr4, nP0] - END
+[N7, Pr4, nP4] - END
+[N7, Pr4, nP3] - END
+[N7, Pr4, nP1] - END
+[N7, Pr4, nP6] - END
+[N7, Pr4, nP8] - END
+[N7, Pr4, nP2] - END
+[N7, Pr4, nP5] - END
+[N7, Pr4, nP7] - END
+[N7, Pr4, nP12] - Libera (sem = 0x7fc01436f170)
+[N7, Pr4, nP12] - END
+[N8, Pr4, nP0] - END
+[N8, Pr4, nP1] - END
+[N8, Pr4, nP2] - END
+[N8, Pr4, nP3] - Libera (sem = 0x7f71013a0170)
+[N8, Pr4, nP3] - END
+[N9, Pr4, nP8] - END
+[N9, Pr4, nP3] - END
+[N9, Pr4, nP0] - END
+[N9, Pr4, nP1] - END
+[N9, Pr4, nP2] - END
+[N9, Pr4, nP9] - END
+[N9, Pr4, nP4] - END
+[N9, Pr4, nP7] - END
+[N9, Pr4, nP6] - END
+[N9, Pr4, nP5] - Libera (sem = 0x7f2695ef1170)
+[N9, Pr4, nP5] - END
+[N1, Pr4, nP0] - END
+[N1, Pr4, nP1] - Libera (sem = 0x7f6fc79b9170)
+[N1, Pr4, nP1] - END
+[N2, Pr4, nP1] - END
+[N2, Pr4, nP3] - END
+[N2, Pr4, nP2] - END
+[N2, Pr4, nP7] - END
+[N2, Pr4, nP5] - END
+[N2, Pr4, nP4] - END
+[N2, Pr4, nP6] - END
+[N2, Pr4, nP9] - END
+[N2, Pr4, nP8] - END
+[N2, Pr4, nP0] - Libera (sem = 0x7fd9d205d170)
+[N2, Pr4, nP0] - END
+[N4, Pr4, nP2] - END
+[N4, Pr4, nP3] - END
+[N4, Pr4, nP1] - END
+[N4, Pr4, nP4] - END
+[N4, Pr4, nP5] - END
+[N4, Pr4, nP6] - END
+[N4, Pr4, nP7] - END
+[N4, Pr4, nP8] - END
+[N4, Pr4, nP9] - END
+[N4, Pr4, nP10] - END
+[N4, Pr4, nP12] - END
+[N4, Pr4, nP13] - END
+[N4, Pr4, nP0] - END
+[N4, Pr4, nP14] - END
+[N4, Pr4, nP15] - END
+[N4, Pr4, nP11] - END
+[N4, Pr4, nP18] - END
+[N4, Pr4, nP19] - END
+[N4, Pr4, nP16] - END
+[N4, Pr4, nP17] - Libera (sem = 0x7f1307722170)
+[N4, Pr4, nP17] - END
+[N5, Pr4, nP0] - END
+[N5, Pr4, nP3] - END
+[N5, Pr4, nP2] - END
+[N5, Pr4, nP4] - END
+[N5, Pr4, nP5] - END
+[N5, Pr4, nP6] - END
+[N5, Pr4, nP7] - END
+[N5, Pr4, nP8] - END
+[N5, Pr4, nP1] - END
+[N5, Pr4, nP9] - Libera (sem = 0x7fb2f01ac170)
+[N5, Pr4, nP9] - END
+[N6, Pr4, nP2] - END
+[N6, Pr4, nP6] - END
+[N6, Pr4, nP5] - END
+[N6, Pr4, nP0] - END
+[N6, Pr4, nP1] - END
+[N6, Pr4, nP7] - END
+[N6, Pr4, nP3] - END
+[N6, Pr4, nP4] - END
+[N6, Pr4, nP8] - END
+[N6, Pr4, nP9] - Libera (sem = 0x7f8f9b8ea170)
+[N6, Pr4, nP9] - END
+[N0, Pr4, nP5] - END
+[N0, Pr4, nP9] - END
+[N0, Pr4, nP11] - END
+[N0, Pr4, nP7] - END
+[N0, Pr4, nP12] - END
+[N0, Pr4, nP13] - END
+[N0, Pr4, nP15] - END
+[N0, Pr4, nP18] - END
+[N0, Pr4, nP14] - END
+[N0, Pr4, nP19] - END
+[N0, Pr4, nP16] - END
+[N0, Pr4, nP17] - END
+[N0, Pr4, nP22] - END
+[N0, Pr4, nP20] - END
+[N0, Pr4, nP24] - END
+[N0, Pr4, nP25] - END
+[N0, Pr4, nP23] - END
+[N0, Pr4, nP21] - END
+[N0, Pr4, nP28] - END
+[N0, Pr4, nP29] - END
+[N0, Pr4, nP26] - END
+[N0, Pr4, nP27] - END
+[N0, Pr4, nP31] - END
+[N0, Pr4, nP33] - END
+[N0, Pr4, nP30] - END
+[N0, Pr4, nP32] - END
+[N0, Pr4, nP35] - END
+[N0, Pr4, nP36] - END
+[N0, Pr4, nP34] - END
+[N0, Pr4, nP38] - END
+[N0, Pr4, nP37] - END
+[N0, Pr4, nP39] - END
+[N0, Pr4, nP10] - END
+[N0, Pr4, nP4] - END
+[N0, Pr4, nP8] - END
+[N3, Consulta] - END
+[N7, Consulta] - END
+[N7, Consulta] - END
+[N7, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N1, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N7, Consulta] - END
+[N4, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N4, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N4, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N4, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N4, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N8, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N7, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N3, Consulta] - END
+[N9, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N7, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N9, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
+[N5, Consulta] - END
+[N8, Consulta] - END
